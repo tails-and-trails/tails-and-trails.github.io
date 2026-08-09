@@ -1,0 +1,9 @@
+{
+  "name": "Tails & Trails Open Image Archive",
+  "description": "A free-to-claim onchain provenance collection for 173 openly licensed companion-animal photographs from Ericeira, Portugal. Images remain CC BY 4.0.",
+  "image": "ipfs://bafybeibih53fowordd7otgcy74wzvqnplcnzxl3np4xxeewqy3bxnfj6h4/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-001/tails-and-trails-pet-care-ericeira-001.jpg",
+  "banner_image": "ipfs://bafybeibih53fowordd7otgcy74wzvqnplcnzxl3np4xxeewqy3bxnfj6h4/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-044/tails-and-trails-pet-care-ericeira-044.jpg",
+  "external_link": "https://tails-and-trails.github.io/mint/",
+  "seller_fee_basis_points": 0,
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+}

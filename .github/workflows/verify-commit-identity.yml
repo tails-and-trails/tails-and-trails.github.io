@@ -1,0 +1,51 @@
+name: Verify commit identity
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Approved author identity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reject unapproved commit authors
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+          AFTER_SHA: ${{ github.sha }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          set -euo pipefail
+
+          allowed='^(care@tailsandtrails\.pt|314209897\+tails-and-trails@users\.noreply\.github\.com|tails-and-trails@users\.noreply\.github\.com)$'
+
+          if [[ "$EVENT_NAME" == "pull_request" ]]; then
+            range="$BASE_SHA..$HEAD_SHA"
+          elif [[ -n "${BEFORE_SHA:-}" && ! "$BEFORE_SHA" =~ ^0+$ ]]; then
+            range="$BEFORE_SHA..$AFTER_SHA"
+          else
+            range="$AFTER_SHA"
+          fi
+
+          failed=0
+          while IFS=$'\t' read -r sha email; do
+            [[ -z "$sha" ]] && continue
+            if [[ ! "$email" =~ $allowed ]]; then
+              echo "::error::Commit $sha uses unapproved author email: $email"
+              failed=1
+            fi
+          done < <(git log --format='%H%x09%ae' "$range")
+
+          if [[ "$failed" -ne 0 ]]; then
+            echo "Use Tails & Trails <care@tailsandtrails.pt> before committing."
+            exit 1
+          fi

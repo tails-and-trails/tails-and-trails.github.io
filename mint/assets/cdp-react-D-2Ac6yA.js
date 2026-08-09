@@ -1,0 +1,1 @@
+var e={};throw Error(`Could not resolve "@base-org/account" imported by "@coinbase/cdp-react". Is it installed?`);export{e as default};

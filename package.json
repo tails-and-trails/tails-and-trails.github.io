@@ -1,0 +1,12 @@
+{
+  "name": "tails-and-trails-open-image-archive",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-catalogue.mjs",
+    "build:mint": "pnpm --dir mint-app run build",
+    "generate:nft-metadata": "node scripts/generate-nft-metadata.mjs",
+    "export:nft-contract": "node scripts/export-mint-contract.mjs",
+    "validate": "node scripts/validate-catalogue.mjs"
+  }
+}

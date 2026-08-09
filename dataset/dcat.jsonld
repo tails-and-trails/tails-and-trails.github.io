@@ -1,0 +1,215 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dcterms": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "locn": "http://www.w3.org/ns/locn#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@graph": [
+    {
+      "@id": "https://tails-and-trails.github.io/#catalog",
+      "@type": "dcat:Catalog",
+      "dcterms:title": {
+        "@value": "Tails & Trails Open Image Archive",
+        "@language": "en"
+      },
+      "dcterms:description": {
+        "@value": "Machine-readable catalogue of 173 openly licensed companion-animal photographs from Ericeira, Portugal.",
+        "@language": "en"
+      },
+      "dcterms:publisher": {
+        "@id": "https://tails-and-trails.github.io/#organization"
+      },
+      "foaf:homepage": {
+        "@id": "https://tails-and-trails.github.io/"
+      },
+      "dcat:dataset": {
+        "@id": "https://tails-and-trails.github.io/#dataset"
+      }
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#dataset",
+      "@type": "dcat:Dataset",
+      "dcterms:title": {
+        "@value": "Tails & Trails — Ericeira Companion Animal Photography Archive",
+        "@language": "en"
+      },
+      "dcterms:description": {
+        "@value": "Version 2 of a privacy-safe archive containing 173 CC BY 4.0 dog, cat and mouse photographs, bilingual descriptions, checksums and linked preservation records.",
+        "@language": "en"
+      },
+      "dcterms:identifier": [
+        "https://doi.org/10.5281/zenodo.21856091",
+        "ipfs://bafybeibih53fowordd7otgcy74wzvqnplcnzxl3np4xxeewqy3bxnfj6h4"
+      ],
+      "dcterms:issued": {
+        "@value": "2026-08-09",
+        "@type": "xsd:date"
+      },
+      "dcterms:modified": {
+        "@value": "2026-08-09",
+        "@type": "xsd:date"
+      },
+      "dcterms:language": [
+        "en",
+        "pt-PT"
+      ],
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "dcterms:publisher": {
+        "@id": "https://tails-and-trails.github.io/#organization"
+      },
+      "dcterms:spatial": {
+        "@id": "https://www.wikidata.org/wiki/Q1351868"
+      },
+      "dcat:landingPage": {
+        "@id": "https://tails-and-trails.github.io/"
+      },
+      "dcat:keyword": [
+        "companion animals",
+        "dog photography",
+        "cat photography",
+        "Ericeira",
+        "Portugal",
+        "CC BY 4.0",
+        "IIIF"
+      ],
+      "dcat:version": "2.0.0",
+      "dcat:distribution": [
+        {
+          "@id": "https://tails-and-trails.github.io/#distribution-catalog"
+        },
+        {
+          "@id": "https://tails-and-trails.github.io/#distribution-attribution"
+        },
+        {
+          "@id": "https://tails-and-trails.github.io/#distribution-geojson"
+        },
+        {
+          "@id": "https://tails-and-trails.github.io/#distribution-kml"
+        },
+        {
+          "@id": "https://tails-and-trails.github.io/#distribution-iiif"
+        },
+        {
+          "@id": "https://tails-and-trails.github.io/#distribution-zenodo"
+        },
+        {
+          "@id": "https://tails-and-trails.github.io/#distribution-integrity-registry"
+        }
+      ]
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#organization",
+      "@type": "foaf:Organization",
+      "foaf:name": "Tails & Trails Archive",
+      "foaf:homepage": {
+        "@id": "https://tails-and-trails.github.io/"
+      }
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#distribution-catalog",
+      "@type": "dcat:Distribution",
+      "dcterms:title": "JSON image catalogue",
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "dcat:mediaType": {
+        "@id": "https://www.iana.org/assignments/media-types/application/json"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://tails-and-trails.github.io/catalog.json"
+      }
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#distribution-attribution",
+      "@type": "dcat:Distribution",
+      "dcterms:title": "CSV attribution registry",
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "dcat:mediaType": {
+        "@id": "https://www.iana.org/assignments/media-types/text/csv"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://raw.githubusercontent.com/tails-and-trails/tailsandtrails/main/image-attribution.csv"
+      }
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#distribution-geojson",
+      "@type": "dcat:Distribution",
+      "dcterms:title": "GeoJSON locality records",
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "dcat:mediaType": {
+        "@id": "https://www.iana.org/assignments/media-types/application/geo+json"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://tails-and-trails.github.io/maps/ericeira-photo-archive.geojson"
+      }
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#distribution-kml",
+      "@type": "dcat:Distribution",
+      "dcterms:title": "KML locality records",
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "dcat:mediaType": {
+        "@id": "https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://tails-and-trails.github.io/maps/ericeira-photo-archive.kml"
+      }
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#distribution-iiif",
+      "@type": "dcat:Distribution",
+      "dcterms:title": "IIIF Presentation 3 collection",
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "dcat:mediaType": {
+        "@id": "https://www.iana.org/assignments/media-types/application/ld+json"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://tails-and-trails.github.io/iiif/collection.json"
+      }
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#distribution-zenodo",
+      "@type": "dcat:Distribution",
+      "dcterms:title": "Version 2 preservation package",
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "dcat:mediaType": {
+        "@id": "https://www.iana.org/assignments/media-types/application/zip"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://zenodo.org/records/21856091/files/tails-and-trails-ericeira-companion-animal-archive-v2.zip?download=1"
+      }
+    },
+    {
+      "@id": "https://tails-and-trails.github.io/#distribution-integrity-registry",
+      "@type": "dcat:Distribution",
+      "dcterms:title": "Bitcoin-anchored SHA-256 integrity registry",
+      "dcterms:description": "OpenTimestamps release manifest and Merkle root with an independently verifiable inclusion proof for each of the 173 images.",
+      "dcterms:license": {
+        "@id": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "dcat:mediaType": {
+        "@id": "https://www.iana.org/assignments/media-types/application/json"
+      },
+      "dcat:landingPage": {
+        "@id": "https://tails-and-trails.github.io/pet-sitter/blockchain-registry/"
+      },
+      "dcat:downloadURL": {
+        "@id": "https://tails-and-trails.github.io/pet-sitter/blockchain-registry/release-v1.json"
+      }
+    }
+  ]
+}

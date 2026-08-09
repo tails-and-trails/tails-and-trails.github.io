@@ -1,0 +1,71 @@
+@prefix dcat: <http://www.w3.org/ns/dcat#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://tails-and-trails.github.io/#catalog> a dcat:Catalog ;
+  dcterms:title "Tails & Trails Open Image Archive"@en ;
+  dcterms:description "Machine-readable catalogue of 173 openly licensed companion-animal photographs from Ericeira, Portugal."@en ;
+  dcterms:publisher <https://tails-and-trails.github.io/#organization> ;
+  foaf:homepage <https://tails-and-trails.github.io/> ;
+  dcat:dataset <https://tails-and-trails.github.io/#dataset> .
+
+<https://tails-and-trails.github.io/#dataset> a dcat:Dataset ;
+  dcterms:title "Tails & Trails — Ericeira Companion Animal Photography Archive"@en ;
+  dcterms:description "Version 2 of a privacy-safe archive containing 173 CC BY 4.0 dog, cat and mouse photographs, bilingual descriptions, checksums and linked preservation records."@en ;
+  dcterms:identifier "10.5281/zenodo.21856091", "ipfs://bafybeibih53fowordd7otgcy74wzvqnplcnzxl3np4xxeewqy3bxnfj6h4" ;
+  dcterms:issued "2026-08-09"^^xsd:date ;
+  dcterms:modified "2026-08-09"^^xsd:date ;
+  dcterms:language "en", "pt-PT" ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dcterms:publisher <https://tails-and-trails.github.io/#organization> ;
+  dcterms:spatial <https://www.wikidata.org/wiki/Q1351868> ;
+  dcat:landingPage <https://tails-and-trails.github.io/> ;
+  dcat:version "2.0.0" ;
+  dcat:distribution <https://tails-and-trails.github.io/#distribution-catalog>, <https://tails-and-trails.github.io/#distribution-attribution>, <https://tails-and-trails.github.io/#distribution-geojson>, <https://tails-and-trails.github.io/#distribution-kml>, <https://tails-and-trails.github.io/#distribution-iiif>, <https://tails-and-trails.github.io/#distribution-zenodo>, <https://tails-and-trails.github.io/#distribution-integrity-registry> .
+
+<https://tails-and-trails.github.io/#organization> a foaf:Organization ; foaf:name "Tails & Trails Archive" ; foaf:homepage <https://tails-and-trails.github.io/> .
+
+<https://tails-and-trails.github.io/#distribution-catalog> a dcat:Distribution ;
+  dcterms:title "JSON image catalogue"@en ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> ;
+  dcat:downloadURL <https://tails-and-trails.github.io/catalog.json> .
+
+<https://tails-and-trails.github.io/#distribution-attribution> a dcat:Distribution ;
+  dcterms:title "CSV attribution registry"@en ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dcat:mediaType <https://www.iana.org/assignments/media-types/text/csv> ;
+  dcat:downloadURL <https://raw.githubusercontent.com/tails-and-trails/tailsandtrails/main/image-attribution.csv> .
+
+<https://tails-and-trails.github.io/#distribution-geojson> a dcat:Distribution ;
+  dcterms:title "GeoJSON locality records"@en ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dcat:mediaType <https://www.iana.org/assignments/media-types/application/geo+json> ;
+  dcat:downloadURL <https://tails-and-trails.github.io/maps/ericeira-photo-archive.geojson> .
+
+<https://tails-and-trails.github.io/#distribution-kml> a dcat:Distribution ;
+  dcterms:title "KML locality records"@en ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dcat:mediaType <https://www.iana.org/assignments/media-types/application/vnd.google-earth.kml+xml> ;
+  dcat:downloadURL <https://tails-and-trails.github.io/maps/ericeira-photo-archive.kml> .
+
+<https://tails-and-trails.github.io/#distribution-iiif> a dcat:Distribution ;
+  dcterms:title "IIIF Presentation 3 collection"@en ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dcat:mediaType <https://www.iana.org/assignments/media-types/application/ld+json> ;
+  dcat:downloadURL <https://tails-and-trails.github.io/iiif/collection.json> .
+
+<https://tails-and-trails.github.io/#distribution-zenodo> a dcat:Distribution ;
+  dcterms:title "Version 2 preservation package"@en ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dcat:mediaType <https://www.iana.org/assignments/media-types/application/zip> ;
+  dcat:downloadURL <https://zenodo.org/records/21856091/files/tails-and-trails-ericeira-companion-animal-archive-v2.zip?download=1> .
+
+<https://tails-and-trails.github.io/#distribution-integrity-registry> a dcat:Distribution ;
+  dcterms:title "Bitcoin-anchored SHA-256 integrity registry"@en ;
+  dcterms:description "OpenTimestamps release manifest and Merkle root with an independently verifiable inclusion proof for each of the 173 images."@en ;
+  dcterms:license <https://creativecommons.org/licenses/by/4.0/> ;
+  dcat:mediaType <https://www.iana.org/assignments/media-types/application/json> ;
+  dcat:landingPage <https://tails-and-trails.github.io/pet-sitter/blockchain-registry/> ;
+  dcat:downloadURL <https://tails-and-trails.github.io/pet-sitter/blockchain-registry/release-v1.json> .

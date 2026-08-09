@@ -1,0 +1,3700 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tails-and-trails.github.io/iiif/collection.json",
+  "type": "Collection",
+  "label": {
+    "en": [
+      "Tails & Trails — Ericeira Companion Animal Photography Archive"
+    ],
+    "pt": [
+      "Tails & Trails — Arquivo de fotografia de animais de companhia da Ericeira"
+    ]
+  },
+  "summary": {
+    "en": [
+      "173 openly licensed companion-animal photographs from Ericeira, Portugal."
+    ],
+    "pt": [
+      "173 fotografias de animais de companhia da Ericeira, Portugal, com licença aberta."
+    ]
+  },
+  "rights": "https://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ],
+      "pt": [
+        "Atribuição"
+      ]
+    },
+    "value": {
+      "en": [
+        "Tails & Trails Archive · CC BY 4.0"
+      ],
+      "pt": [
+        "Tails & Trails Archive · CC BY 4.0"
+      ]
+    }
+  },
+  "homepage": [
+    {
+      "id": "https://tails-and-trails.github.io/",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Tails & Trails Open Image Archive"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "DCAT 3 description of this collection"
+        ]
+      },
+      "format": "application/ld+json",
+      "profile": "http://www.w3.org/ns/dcat#"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/001.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog standing — archive photo 001"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha de pé — fotografia de arquivo 001"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-001/tails-and-trails-pet-care-ericeira-001.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 728,
+          "height": 909
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/002.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog resting — archive photo 002"
+        ],
+        "pt": [
+          "cão de pelagem preta a descansar — fotografia de arquivo 002"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-002/tails-and-trails-pet-care-ericeira-002.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 937,
+          "height": 1172
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/003.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-grey dog portrait — archive photo 003"
+        ],
+        "pt": [
+          "cão de pelagem branca e cinzenta retrato — fotografia de arquivo 003"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-003/tails-and-trails-pet-care-ericeira-003.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 937,
+          "height": 1172
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/004.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog portrait — archive photo 004"
+        ],
+        "pt": [
+          "cão de pelagem creme retrato — fotografia de arquivo 004"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-004/tails-and-trails-pet-care-ericeira-004.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 937,
+          "height": 1172
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/005.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog portrait — archive photo 005"
+        ],
+        "pt": [
+          "cão de pelagem creme retrato — fotografia de arquivo 005"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-005/tails-and-trails-pet-care-ericeira-005.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 937,
+          "height": 1172
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/006.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog portrait — archive photo 006"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate retrato — fotografia de arquivo 006"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-006/tails-and-trails-pet-care-ericeira-006.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 836,
+          "height": 933
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/007.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog portrait — archive photo 007"
+        ],
+        "pt": [
+          "cão de pelagem branca retrato — fotografia de arquivo 007"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-007/tails-and-trails-pet-care-ericeira-007.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 937,
+          "height": 1172
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/008.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog resting — archive photo 008"
+        ],
+        "pt": [
+          "cão de pelagem creme a descansar — fotografia de arquivo 008"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-008/tails-and-trails-pet-care-ericeira-008.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1566
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/009.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-grey dog standing — archive photo 009"
+        ],
+        "pt": [
+          "cão de pelagem preta e cinzenta de pé — fotografia de arquivo 009"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-009/tails-and-trails-pet-care-ericeira-009.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1542
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/010.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog profile — archive photo 010"
+        ],
+        "pt": [
+          "cão de pelagem preta perfil — fotografia de arquivo 010"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-010/tails-and-trails-pet-care-ericeira-010.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1616
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/011.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog sitting — archive photo 011"
+        ],
+        "pt": [
+          "cão de pelagem preta sentado — fotografia de arquivo 011"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-010/tails-and-trails-pet-care-ericeira-011.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1616
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/012.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog portrait — archive photo 012"
+        ],
+        "pt": [
+          "cão de pelagem preta retrato — fotografia de arquivo 012"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-010/tails-and-trails-pet-care-ericeira-012.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1616
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/013.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog resting — archive photo 013"
+        ],
+        "pt": [
+          "cão de pelagem preta a descansar — fotografia de arquivo 013"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-011/tails-and-trails-pet-care-ericeira-013.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1490
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/014.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog sniffing — archive photo 014"
+        ],
+        "pt": [
+          "cão de pelagem preta a farejar — fotografia de arquivo 014"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-011/tails-and-trails-pet-care-ericeira-014.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1487
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/015.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mixed-coat dogs together — archive photo 015"
+        ],
+        "pt": [
+          "cães com pelagens contrastantes juntos — fotografia de arquivo 015"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-012/tails-and-trails-pet-care-ericeira-015.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1794
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/016.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mixed-coat dogs greeting — archive photo 016"
+        ],
+        "pt": [
+          "cães com pelagens contrastantes a cumprimentarem-se — fotografia de arquivo 016"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-012/tails-and-trails-pet-care-ericeira-016.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/017.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog resting — archive photo 017"
+        ],
+        "pt": [
+          "cão de pelagem fulva a descansar — fotografia de arquivo 017"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-013/tails-and-trails-pet-care-ericeira-017.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/018.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog sitting — archive photo 018"
+        ],
+        "pt": [
+          "cão de pelagem fulva sentado — fotografia de arquivo 018"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-013/tails-and-trails-pet-care-ericeira-018.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/019.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fawn dog standing — archive photo 019"
+        ],
+        "pt": [
+          "cão de pelagem fulva de pé — fotografia de arquivo 019"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-014/tails-and-trails-pet-care-ericeira-019.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1632
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/020.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fawn dog walking — archive photo 020"
+        ],
+        "pt": [
+          "cão de pelagem fulva a caminhar — fotografia de arquivo 020"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-014/tails-and-trails-pet-care-ericeira-020.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1631
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/021.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Fawn dog portrait — archive photo 021"
+        ],
+        "pt": [
+          "cão de pelagem fulva retrato — fotografia de arquivo 021"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-014/tails-and-trails-pet-care-ericeira-021.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1633
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/022.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Grey dog portrait — archive photo 022"
+        ],
+        "pt": [
+          "cão de pelagem cinzenta retrato — fotografia de arquivo 022"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-015/tails-and-trails-pet-care-ericeira-022.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/023.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Grey dog sitting — archive photo 023"
+        ],
+        "pt": [
+          "cão de pelagem cinzenta sentado — fotografia de arquivo 023"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-015/tails-and-trails-pet-care-ericeira-023.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/024.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Grey dog profile — archive photo 024"
+        ],
+        "pt": [
+          "cão de pelagem cinzenta perfil — fotografia de arquivo 024"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-015/tails-and-trails-pet-care-ericeira-024.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/025.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog sniffing — archive photo 025"
+        ],
+        "pt": [
+          "cão de pelagem branca a farejar — fotografia de arquivo 025"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-016/tails-and-trails-pet-care-ericeira-025.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/026.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog walking — archive photo 026"
+        ],
+        "pt": [
+          "cão de pelagem branca a caminhar — fotografia de arquivo 026"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-016/tails-and-trails-pet-care-ericeira-026.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/027.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog walking — archive photo 027"
+        ],
+        "pt": [
+          "cão de pelagem branca a caminhar — fotografia de arquivo 027"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-016/tails-and-trails-pet-care-ericeira-027.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/028.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog sitting — archive photo 028"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha sentado — fotografia de arquivo 028"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-017/tails-and-trails-pet-care-ericeira-028.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1796
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/029.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog standing — archive photo 029"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha de pé — fotografia de arquivo 029"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-017/tails-and-trails-pet-care-ericeira-029.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1797
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/030.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog portrait — archive photo 030"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha retrato — fotografia de arquivo 030"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-017/tails-and-trails-pet-care-ericeira-030.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/031.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog standing — archive photo 031"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate de pé — fotografia de arquivo 031"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-018/tails-and-trails-pet-care-ericeira-031.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1736
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/032.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog sitting — archive photo 032"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate sentado — fotografia de arquivo 032"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-018/tails-and-trails-pet-care-ericeira-032.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1741
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/033.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog portrait — archive photo 033"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate retrato — fotografia de arquivo 033"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-018/tails-and-trails-pet-care-ericeira-033.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1736
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/034.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog close-up — archive photo 034"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate primeiro plano — fotografia de arquivo 034"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-018/tails-and-trails-pet-care-ericeira-034.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1736
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/035.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog portrait — archive photo 035"
+        ],
+        "pt": [
+          "cão de pelagem creme retrato — fotografia de arquivo 035"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-019/tails-and-trails-pet-care-ericeira-035.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/036.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog standing — archive photo 036"
+        ],
+        "pt": [
+          "cão de pelagem creme de pé — fotografia de arquivo 036"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-019/tails-and-trails-pet-care-ericeira-036.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/037.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog sitting — archive photo 037"
+        ],
+        "pt": [
+          "cão de pelagem branca sentado — fotografia de arquivo 037"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-020/tails-and-trails-pet-care-ericeira-037.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1586
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/038.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog profile — archive photo 038"
+        ],
+        "pt": [
+          "cão de pelagem branca perfil — fotografia de arquivo 038"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-020/tails-and-trails-pet-care-ericeira-038.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1583
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/039.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog portrait — archive photo 039"
+        ],
+        "pt": [
+          "cão de pelagem branca retrato — fotografia de arquivo 039"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-020/tails-and-trails-pet-care-ericeira-039.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1586
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/040.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog sitting — archive photo 040"
+        ],
+        "pt": [
+          "cão de pelagem fulva sentado — fotografia de arquivo 040"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-021/tails-and-trails-pet-care-ericeira-040.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1623
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/041.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog portrait — archive photo 041"
+        ],
+        "pt": [
+          "cão de pelagem fulva retrato — fotografia de arquivo 041"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-021/tails-and-trails-pet-care-ericeira-041.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1623
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/042.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog standing — archive photo 042"
+        ],
+        "pt": [
+          "cão de pelagem fulva de pé — fotografia de arquivo 042"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-022/tails-and-trails-pet-care-ericeira-042.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/043.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog profile — archive photo 043"
+        ],
+        "pt": [
+          "cão de pelagem fulva perfil — fotografia de arquivo 043"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-022/tails-and-trails-pet-care-ericeira-043.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/044.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog standing — archive photo 044"
+        ],
+        "pt": [
+          "cão de pelagem preta de pé — fotografia de arquivo 044"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-023/tails-and-trails-pet-care-ericeira-044.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/045.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog profile — archive photo 045"
+        ],
+        "pt": [
+          "cão de pelagem preta perfil — fotografia de arquivo 045"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-023/tails-and-trails-pet-care-ericeira-045.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/046.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog walking — archive photo 046"
+        ],
+        "pt": [
+          "cão de pelagem preta a caminhar — fotografia de arquivo 046"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-023/tails-and-trails-pet-care-ericeira-046.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/047.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog standing — archive photo 047"
+        ],
+        "pt": [
+          "cão de pelagem fulva de pé — fotografia de arquivo 047"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-024/tails-and-trails-pet-care-ericeira-047.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1511
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/048.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog profile — archive photo 048"
+        ],
+        "pt": [
+          "cão de pelagem fulva perfil — fotografia de arquivo 048"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-024/tails-and-trails-pet-care-ericeira-048.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1511
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/049.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog sitting — archive photo 049"
+        ],
+        "pt": [
+          "cão de pelagem fulva sentado — fotografia de arquivo 049"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-024/tails-and-trails-pet-care-ericeira-049.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1504
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/050.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog portrait — archive photo 050"
+        ],
+        "pt": [
+          "cão de pelagem fulva retrato — fotografia de arquivo 050"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-025/tails-and-trails-pet-care-ericeira-050.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1492
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/051.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-brown dog standing — archive photo 051"
+        ],
+        "pt": [
+          "cão de pelagem branca e castanha de pé — fotografia de arquivo 051"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-026/tails-and-trails-pet-care-ericeira-051.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 939,
+          "height": 980
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/052.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden dog portrait — archive photo 052"
+        ],
+        "pt": [
+          "cão de pelagem dourada retrato — fotografia de arquivo 052"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-027/tails-and-trails-pet-care-ericeira-052.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1495
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/053.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden dog sitting — archive photo 053"
+        ],
+        "pt": [
+          "cão de pelagem dourada sentado — fotografia de arquivo 053"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-027/tails-and-trails-pet-care-ericeira-053.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1500
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/054.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog sitting — archive photo 054"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca sentado — fotografia de arquivo 054"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-028/tails-and-trails-pet-care-ericeira-054.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1439
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/055.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog profile — archive photo 055"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca perfil — fotografia de arquivo 055"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-028/tails-and-trails-pet-care-ericeira-055.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/056.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown-and-white dog portrait — archive photo 056"
+        ],
+        "pt": [
+          "cão de pelagem castanha e branca retrato — fotografia de arquivo 056"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-029/tails-and-trails-pet-care-ericeira-056.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1731
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/057.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown-and-white dog close-up — archive photo 057"
+        ],
+        "pt": [
+          "cão de pelagem castanha e branca primeiro plano — fotografia de arquivo 057"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-029/tails-and-trails-pet-care-ericeira-057.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1731
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/058.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog sitting — archive photo 058"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca sentado — fotografia de arquivo 058"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-030/tails-and-trails-pet-care-ericeira-058.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/059.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog profile — archive photo 059"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca perfil — fotografia de arquivo 059"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-030/tails-and-trails-pet-care-ericeira-059.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/060.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-brown dog sitting — archive photo 060"
+        ],
+        "pt": [
+          "cão de pelagem branca e castanha sentado — fotografia de arquivo 060"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-031/tails-and-trails-pet-care-ericeira-060.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1487
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/061.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-brown dog profile — archive photo 061"
+        ],
+        "pt": [
+          "cão de pelagem branca e castanha perfil — fotografia de arquivo 061"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-031/tails-and-trails-pet-care-ericeira-061.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1486
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/062.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-tan dog being petted — archive photo 062"
+        ],
+        "pt": [
+          "cão de pelagem branca e fulva a receber carinho — fotografia de arquivo 062"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-031/tails-and-trails-pet-care-ericeira-062.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1489
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/063.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-brown dog portrait — archive photo 063"
+        ],
+        "pt": [
+          "cão de pelagem branca e castanha retrato — fotografia de arquivo 063"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-032/tails-and-trails-pet-care-ericeira-063.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1566
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/064.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-brown dog sitting — archive photo 064"
+        ],
+        "pt": [
+          "cão de pelagem branca e castanha sentado — fotografia de arquivo 064"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-032/tails-and-trails-pet-care-ericeira-064.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1566
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/065.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-brown dog profile — archive photo 065"
+        ],
+        "pt": [
+          "cão de pelagem branca e castanha perfil — fotografia de arquivo 065"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-032/tails-and-trails-pet-care-ericeira-065.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1566
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/066.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog standing — archive photo 066"
+        ],
+        "pt": [
+          "cão de pelagem preta de pé — fotografia de arquivo 066"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-033/tails-and-trails-pet-care-ericeira-066.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/067.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog close-up — archive photo 067"
+        ],
+        "pt": [
+          "cão de pelagem preta primeiro plano — fotografia de arquivo 067"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-033/tails-and-trails-pet-care-ericeira-067.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/068.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog standing — archive photo 068"
+        ],
+        "pt": [
+          "cão de pelagem preta de pé — fotografia de arquivo 068"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-034/tails-and-trails-pet-care-ericeira-068.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1589
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/069.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog resting — archive photo 069"
+        ],
+        "pt": [
+          "cão de pelagem fulva a descansar — fotografia de arquivo 069"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-034/tails-and-trails-pet-care-ericeira-069.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1589
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/070.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog sitting — archive photo 070"
+        ],
+        "pt": [
+          "cão de pelagem branca sentado — fotografia de arquivo 070"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-035/tails-and-trails-pet-care-ericeira-070.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/071.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog profile — archive photo 071"
+        ],
+        "pt": [
+          "cão de pelagem branca perfil — fotografia de arquivo 071"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-035/tails-and-trails-pet-care-ericeira-071.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1795
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/072.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog resting — archive photo 072"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha a descansar — fotografia de arquivo 072"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-036/tails-and-trails-pet-care-ericeira-072.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/073.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog lying down — archive photo 073"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha deitado — fotografia de arquivo 073"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-036/tails-and-trails-pet-care-ericeira-073.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1799
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/074.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog close-up — archive photo 074"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca primeiro plano — fotografia de arquivo 074"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-037/tails-and-trails-pet-care-ericeira-074.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/075.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog sitting — archive photo 075"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca sentado — fotografia de arquivo 075"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-037/tails-and-trails-pet-care-ericeira-075.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/076.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog sitting — archive photo 076"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha sentado — fotografia de arquivo 076"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-038/tails-and-trails-pet-care-ericeira-076.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/077.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog profile — archive photo 077"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha perfil — fotografia de arquivo 077"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-038/tails-and-trails-pet-care-ericeira-077.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/078.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dogs together — archive photo 078"
+        ],
+        "pt": [
+          "cães de pelagem preta e branca juntos — fotografia de arquivo 078"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-039/tails-and-trails-pet-care-ericeira-078.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/079.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog sitting — archive photo 079"
+        ],
+        "pt": [
+          "cão de pelagem branca sentado — fotografia de arquivo 079"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-039/tails-and-trails-pet-care-ericeira-079.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/080.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dogs together — archive photo 080"
+        ],
+        "pt": [
+          "cães de pelagem preta e branca juntos — fotografia de arquivo 080"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-039/tails-and-trails-pet-care-ericeira-080.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/081.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog portrait — archive photo 081"
+        ],
+        "pt": [
+          "cão de pelagem creme retrato — fotografia de arquivo 081"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-040/tails-and-trails-pet-care-ericeira-081.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 937,
+          "height": 1172
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/082.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog sitting — archive photo 082"
+        ],
+        "pt": [
+          "cão de pelagem branca sentado — fotografia de arquivo 082"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-041/tails-and-trails-pet-care-ericeira-082.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/083.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog sitting — archive photo 083"
+        ],
+        "pt": [
+          "cão de pelagem branca sentado — fotografia de arquivo 083"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-041/tails-and-trails-pet-care-ericeira-083.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/084.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog licking its nose — archive photo 084"
+        ],
+        "pt": [
+          "cão de pelagem branca a lamber o focinho — fotografia de arquivo 084"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-041/tails-and-trails-pet-care-ericeira-084.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/085.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown-and-white dog sitting — archive photo 085"
+        ],
+        "pt": [
+          "cão de pelagem castanha e branca sentado — fotografia de arquivo 085"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-042/tails-and-trails-pet-care-ericeira-085.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/086.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown-and-white dog profile — archive photo 086"
+        ],
+        "pt": [
+          "cão de pelagem castanha e branca perfil — fotografia de arquivo 086"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-042/tails-and-trails-pet-care-ericeira-086.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/087.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-grey cat sitting — archive photo 087"
+        ],
+        "pt": [
+          "gato de pelagem branca e cinzenta sentado — fotografia de arquivo 087"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-043/tails-and-trails-pet-care-ericeira-087.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1794
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/088.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Orange tabby cat sitting — archive photo 088"
+        ],
+        "pt": [
+          "gato de pelagem tigrada laranja sentado — fotografia de arquivo 088"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-043/tails-and-trails-pet-care-ericeira-088.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/089.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog portrait — archive photo 089"
+        ],
+        "pt": [
+          "cão de pelagem creme retrato — fotografia de arquivo 089"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-044/tails-and-trails-pet-care-ericeira-089.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/090.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog resting — archive photo 090"
+        ],
+        "pt": [
+          "cão de pelagem creme a descansar — fotografia de arquivo 090"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-044/tails-and-trails-pet-care-ericeira-090.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/091.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog close-up — archive photo 091"
+        ],
+        "pt": [
+          "cão de pelagem creme primeiro plano — fotografia de arquivo 091"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-044/tails-and-trails-pet-care-ericeira-091.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/092.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dogs together — archive photo 092"
+        ],
+        "pt": [
+          "cães de pelagem preta e branca juntos — fotografia de arquivo 092"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-045/tails-and-trails-pet-care-ericeira-092.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1571
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/093.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog portrait — archive photo 093"
+        ],
+        "pt": [
+          "cão de pelagem preta retrato — fotografia de arquivo 093"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-045/tails-and-trails-pet-care-ericeira-093.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1571
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/094.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-black dog portrait — archive photo 094"
+        ],
+        "pt": [
+          "cão de pelagem branca e preta retrato — fotografia de arquivo 094"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-045/tails-and-trails-pet-care-ericeira-094.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1571
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/095.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog standing — archive photo 095"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha de pé — fotografia de arquivo 095"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-046/tails-and-trails-pet-care-ericeira-095.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/096.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog close-up — archive photo 096"
+        ],
+        "pt": [
+          "cão de pelagem fulva primeiro plano — fotografia de arquivo 096"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-047/tails-and-trails-pet-care-ericeira-096.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/097.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog sitting — archive photo 097"
+        ],
+        "pt": [
+          "cão de pelagem fulva sentado — fotografia de arquivo 097"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-047/tails-and-trails-pet-care-ericeira-097.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/098.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog standing — archive photo 098"
+        ],
+        "pt": [
+          "cão de pelagem preta de pé — fotografia de arquivo 098"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-048/tails-and-trails-pet-care-ericeira-098.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/099.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown dog walking — archive photo 099"
+        ],
+        "pt": [
+          "cão de pelagem castanha a caminhar — fotografia de arquivo 099"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-048/tails-and-trails-pet-care-ericeira-099.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/100.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog standing — archive photo 100"
+        ],
+        "pt": [
+          "cão de pelagem fulva de pé — fotografia de arquivo 100"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-049/tails-and-trails-pet-care-ericeira-100.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1794
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/101.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mixed-coat dogs sniffing — archive photo 101"
+        ],
+        "pt": [
+          "cães com pelagens contrastantes a farejar — fotografia de arquivo 101"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-049/tails-and-trails-pet-care-ericeira-101.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1799
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/102.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-tan dog profile — archive photo 102"
+        ],
+        "pt": [
+          "cão de pelagem branca e fulva perfil — fotografia de arquivo 102"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-049/tails-and-trails-pet-care-ericeira-102.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/103.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog walking — archive photo 103"
+        ],
+        "pt": [
+          "cão de pelagem fulva a caminhar — fotografia de arquivo 103"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-050/tails-and-trails-pet-care-ericeira-103.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/104.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden dog resting — archive photo 104"
+        ],
+        "pt": [
+          "cão de pelagem dourada a descansar — fotografia de arquivo 104"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-051/tails-and-trails-pet-care-ericeira-104.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/105.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown dog portrait — archive photo 105"
+        ],
+        "pt": [
+          "cão de pelagem castanha retrato — fotografia de arquivo 105"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-052/tails-and-trails-pet-care-ericeira-105.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1125,
+          "height": 1406
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/106.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog sitting — archive photo 106"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca sentado — fotografia de arquivo 106"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-053/tails-and-trails-pet-care-ericeira-106.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1125,
+          "height": 1406
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/107.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog sitting — archive photo 107"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca sentado — fotografia de arquivo 107"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-054/tails-and-trails-pet-care-ericeira-107.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/108.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog lying down — archive photo 108"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca deitado — fotografia de arquivo 108"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-054/tails-and-trails-pet-care-ericeira-108.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/109.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog winking — archive photo 109"
+        ],
+        "pt": [
+          "cão de pelagem creme a piscar o olho — fotografia de arquivo 109"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-055/tails-and-trails-pet-care-ericeira-109.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/110.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden dog sitting — archive photo 110"
+        ],
+        "pt": [
+          "cão de pelagem dourada sentado — fotografia de arquivo 110"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-056/tails-and-trails-pet-care-ericeira-110.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1479
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/111.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden dog portrait — archive photo 111"
+        ],
+        "pt": [
+          "cão de pelagem dourada retrato — fotografia de arquivo 111"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-056/tails-and-trails-pet-care-ericeira-111.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1479
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/112.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog close-up — archive photo 112"
+        ],
+        "pt": [
+          "cão de pelagem preta primeiro plano — fotografia de arquivo 112"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-057/tails-and-trails-pet-care-ericeira-112.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/113.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog portrait — archive photo 113"
+        ],
+        "pt": [
+          "cão de pelagem fulva retrato — fotografia de arquivo 113"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-058/tails-and-trails-pet-care-ericeira-113.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/114.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog sitting — archive photo 114"
+        ],
+        "pt": [
+          "cão de pelagem fulva sentado — fotografia de arquivo 114"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-058/tails-and-trails-pet-care-ericeira-114.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/115.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog portrait — archive photo 115"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate retrato — fotografia de arquivo 115"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-059/tails-and-trails-pet-care-ericeira-115.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/116.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog standing — archive photo 116"
+        ],
+        "pt": [
+          "cão de pelagem preta de pé — fotografia de arquivo 116"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-060/tails-and-trails-pet-care-ericeira-116.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1794
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/117.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog standing — archive photo 117"
+        ],
+        "pt": [
+          "cão de pelagem fulva de pé — fotografia de arquivo 117"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-060/tails-and-trails-pet-care-ericeira-117.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/118.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White dog portrait — archive photo 118"
+        ],
+        "pt": [
+          "cão de pelagem branca retrato — fotografia de arquivo 118"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-061/tails-and-trails-pet-care-ericeira-118.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1125,
+          "height": 1406
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/119.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan-and-black dog portrait — archive photo 119"
+        ],
+        "pt": [
+          "cão de pelagem fulva e preta retrato — fotografia de arquivo 119"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-062/tails-and-trails-pet-care-ericeira-119.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/120.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog sitting — archive photo 120"
+        ],
+        "pt": [
+          "cão de pelagem preta sentado — fotografia de arquivo 120"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-063/tails-and-trails-pet-care-ericeira-120.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/121.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown dog portrait — archive photo 121"
+        ],
+        "pt": [
+          "cão de pelagem castanha retrato — fotografia de arquivo 121"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-064/tails-and-trails-pet-care-ericeira-121.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/122.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-black dog standing — archive photo 122"
+        ],
+        "pt": [
+          "cão de pelagem branca e preta de pé — fotografia de arquivo 122"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-065/tails-and-trails-pet-care-ericeira-122.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/123.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog resting — archive photo 123"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca a descansar — fotografia de arquivo 123"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-066/tails-and-trails-pet-care-ericeira-123.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1670
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/124.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog profile — archive photo 124"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca perfil — fotografia de arquivo 124"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-066/tails-and-trails-pet-care-ericeira-124.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1670
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/125.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog sitting — archive photo 125"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca sentado — fotografia de arquivo 125"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-067/tails-and-trails-pet-care-ericeira-125.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/126.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog sitting — archive photo 126"
+        ],
+        "pt": [
+          "cão de pelagem fulva sentado — fotografia de arquivo 126"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-068/tails-and-trails-pet-care-ericeira-126.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/127.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog portrait — archive photo 127"
+        ],
+        "pt": [
+          "cão de pelagem fulva retrato — fotografia de arquivo 127"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-068/tails-and-trails-pet-care-ericeira-127.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/128.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog standing — archive photo 128"
+        ],
+        "pt": [
+          "cão de pelagem fulva de pé — fotografia de arquivo 128"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-069/tails-and-trails-pet-care-ericeira-128.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 815,
+          "height": 815
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/129.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog portrait — archive photo 129"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate retrato — fotografia de arquivo 129"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-070/tails-and-trails-pet-care-ericeira-129.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1682
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/130.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog close-up — archive photo 130"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate primeiro plano — fotografia de arquivo 130"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-070/tails-and-trails-pet-care-ericeira-130.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1682
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/131.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog portrait — archive photo 131"
+        ],
+        "pt": [
+          "cão de pelagem preta retrato — fotografia de arquivo 131"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-071/tails-and-trails-pet-care-ericeira-131.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1794
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/132.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mixed-coat dogs together — archive photo 132"
+        ],
+        "pt": [
+          "cães com pelagens contrastantes juntos — fotografia de arquivo 132"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-071/tails-and-trails-pet-care-ericeira-132.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1794
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/133.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Mixed-coat dogs sitting — archive photo 133"
+        ],
+        "pt": [
+          "cães com pelagens contrastantes sentado — fotografia de arquivo 133"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-071/tails-and-trails-pet-care-ericeira-133.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/134.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog portrait — archive photo 134"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate retrato — fotografia de arquivo 134"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-072/tails-and-trails-pet-care-ericeira-134.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1612
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/135.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-tan dog portrait — archive photo 135"
+        ],
+        "pt": [
+          "cão de pelagem branca e fulva retrato — fotografia de arquivo 135"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-073/tails-and-trails-pet-care-ericeira-135.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/136.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog sitting — archive photo 136"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha sentado — fotografia de arquivo 136"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-074/tails-and-trails-pet-care-ericeira-136.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1535
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/137.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-brown dog sitting — archive photo 137"
+        ],
+        "pt": [
+          "cão de pelagem branca e castanha sentado — fotografia de arquivo 137"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-075/tails-and-trails-pet-care-ericeira-137.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/138.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog portrait — archive photo 138"
+        ],
+        "pt": [
+          "cão de pelagem creme retrato — fotografia de arquivo 138"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-076/tails-and-trails-pet-care-ericeira-138.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/139.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog profile — archive photo 139"
+        ],
+        "pt": [
+          "cão de pelagem creme perfil — fotografia de arquivo 139"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-076/tails-and-trails-pet-care-ericeira-139.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1800
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/140.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog portrait — archive photo 140"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate retrato — fotografia de arquivo 140"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-077/tails-and-trails-pet-care-ericeira-140.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1496
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/141.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream dog portrait — archive photo 141"
+        ],
+        "pt": [
+          "cão de pelagem creme retrato — fotografia de arquivo 141"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-078/tails-and-trails-pet-care-ericeira-141.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1892
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/142.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Cream cat standing — archive photo 142"
+        ],
+        "pt": [
+          "gato de pelagem creme de pé — fotografia de arquivo 142"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-079/tails-and-trails-pet-care-ericeira-142.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1470
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/143.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Orange tabby cat sitting — archive photo 143"
+        ],
+        "pt": [
+          "gato de pelagem tigrada laranja sentado — fotografia de arquivo 143"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-079/tails-and-trails-pet-care-ericeira-143.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1470
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/144.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Orange-and-cream cats together — archive photo 144"
+        ],
+        "pt": [
+          "gatos de pelagens laranja e creme juntos — fotografia de arquivo 144"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-079/tails-and-trails-pet-care-ericeira-144.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1470
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/145.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown dog sitting — archive photo 145"
+        ],
+        "pt": [
+          "cão de pelagem castanha sentado — fotografia de arquivo 145"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-080/tails-and-trails-pet-care-ericeira-145.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1760
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/146.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-grey dog standing — archive photo 146"
+        ],
+        "pt": [
+          "cão de pelagem preta e cinzenta de pé — fotografia de arquivo 146"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-081/tails-and-trails-pet-care-ericeira-146.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1908
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/147.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog portrait — archive photo 147"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca retrato — fotografia de arquivo 147"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-081/tails-and-trails-pet-care-ericeira-147.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/148.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white dog close-up — archive photo 148"
+        ],
+        "pt": [
+          "cão de pelagem preta e branca primeiro plano — fotografia de arquivo 148"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-081/tails-and-trails-pet-care-ericeira-148.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/149.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog sitting — archive photo 149"
+        ],
+        "pt": [
+          "cão de pelagem fulva sentado — fotografia de arquivo 149"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-082/tails-and-trails-pet-care-ericeira-149.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1537
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/150.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog resting — archive photo 150"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate a descansar — fotografia de arquivo 150"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-082/tails-and-trails-pet-care-ericeira-150.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1537
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/151.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Chocolate-brown dog lying down — archive photo 151"
+        ],
+        "pt": [
+          "cão de pelagem castanha chocolate deitado — fotografia de arquivo 151"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-082/tails-and-trails-pet-care-ericeira-151.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1537
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/152.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog sitting — archive photo 152"
+        ],
+        "pt": [
+          "cão de pelagem fulva sentado — fotografia de arquivo 152"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-083/tails-and-trails-pet-care-ericeira-152.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1440
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/153.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan dog portrait — archive photo 153"
+        ],
+        "pt": [
+          "cão de pelagem fulva retrato — fotografia de arquivo 153"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-083/tails-and-trails-pet-care-ericeira-153.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1439
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/154.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog close-up — archive photo 154"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha primeiro plano — fotografia de arquivo 154"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-084/tails-and-trails-pet-care-ericeira-154.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/155.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-tan dog standing — archive photo 155"
+        ],
+        "pt": [
+          "cão de pelagem preta e castanha de pé — fotografia de arquivo 155"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-084/tails-and-trails-pet-care-ericeira-155.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1908
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/156.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tabby cat resting — archive photo 156"
+        ],
+        "pt": [
+          "gato de pelagem tigrada a descansar — fotografia de arquivo 156"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-085/tails-and-trails-pet-care-ericeira-156.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1614
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/157.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden dog portrait — archive photo 157"
+        ],
+        "pt": [
+          "cão de pelagem dourada retrato — fotografia de arquivo 157"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-086/tails-and-trails-pet-care-ericeira-157.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/158.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden-and-white dog portrait — archive photo 158"
+        ],
+        "pt": [
+          "cão de pelagem dourada e branca retrato — fotografia de arquivo 158"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-087/tails-and-trails-pet-care-ericeira-158.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1645
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/159.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tabby cat resting — archive photo 159"
+        ],
+        "pt": [
+          "gato de pelagem tigrada a descansar — fotografia de arquivo 159"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-088/tails-and-trails-pet-care-ericeira-159.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1669
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/160.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tan-and-black dog portrait — archive photo 160"
+        ],
+        "pt": [
+          "cão de pelagem fulva e preta retrato — fotografia de arquivo 160"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-088/tails-and-trails-pet-care-ericeira-160.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1669
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/161.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Tabby-and-white cat portrait — archive photo 161"
+        ],
+        "pt": [
+          "gato de pelagem tigrada e branca retrato — fotografia de arquivo 161"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-088/tails-and-trails-pet-care-ericeira-161.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1669
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/162.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Grey-and-white dog standing — archive photo 162"
+        ],
+        "pt": [
+          "cão de pelagem cinzenta e branca de pé — fotografia de arquivo 162"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-089/tails-and-trails-pet-care-ericeira-162.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1557
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/163.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Grey-and-tan dog standing — archive photo 163"
+        ],
+        "pt": [
+          "cão de pelagem cinzenta e fulva de pé — fotografia de arquivo 163"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-090/tails-and-trails-pet-care-ericeira-163.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1497
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/164.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown dog sitting — archive photo 164"
+        ],
+        "pt": [
+          "cão de pelagem castanha sentado — fotografia de arquivo 164"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-091/tails-and-trails-pet-care-ericeira-164.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/165.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown dog portrait — archive photo 165"
+        ],
+        "pt": [
+          "cão de pelagem castanha retrato — fotografia de arquivo 165"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-092/tails-and-trails-pet-care-ericeira-165.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1657
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/166.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-grey dog portrait — archive photo 166"
+        ],
+        "pt": [
+          "cão de pelagem branca e cinzenta retrato — fotografia de arquivo 166"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-093/tails-and-trails-pet-care-ericeira-166.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1920
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/167.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog portrait — archive photo 167"
+        ],
+        "pt": [
+          "cão de pelagem preta retrato — fotografia de arquivo 167"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-094/tails-and-trails-pet-care-ericeira-167.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1653
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/168.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden dog resting — archive photo 168"
+        ],
+        "pt": [
+          "cão de pelagem dourada a descansar — fotografia de arquivo 168"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-095/tails-and-trails-pet-care-ericeira-168.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1640
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/169.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Golden dog resting — archive photo 169"
+        ],
+        "pt": [
+          "cão de pelagem dourada a descansar — fotografia de arquivo 169"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-095/tails-and-trails-pet-care-ericeira-169.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1640
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/170.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black-and-white cat resting — archive photo 170"
+        ],
+        "pt": [
+          "gato de pelagem preta e branca a descansar — fotografia de arquivo 170"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-096/tails-and-trails-pet-care-ericeira-170.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1664
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/171.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "White-and-grey mouse standing — archive photo 171"
+        ],
+        "pt": [
+          "rato de pelagem branca e cinzenta de pé — fotografia de arquivo 171"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-097/tails-and-trails-pet-care-ericeira-171.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1558
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/172.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Black dog portrait — archive photo 172"
+        ],
+        "pt": [
+          "cão de pelagem preta retrato — fotografia de arquivo 172"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-098/tails-and-trails-pet-care-ericeira-172.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1610
+        }
+      ]
+    },
+    {
+      "id": "https://tails-and-trails.github.io/iiif/manifest/173.json",
+      "type": "Manifest",
+      "label": {
+        "en": [
+          "Brown dog portrait — archive photo 173"
+        ],
+        "pt": [
+          "cão de pelagem castanha retrato — fotografia de arquivo 173"
+        ]
+      },
+      "thumbnail": [
+        {
+          "id": "https://tails-and-trails.github.io/tailsandtrails/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-099/tails-and-trails-pet-care-ericeira-173.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "width": 1440,
+          "height": 1561
+        }
+      ]
+    }
+  ]
+}

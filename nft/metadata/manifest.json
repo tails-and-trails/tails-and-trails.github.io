@@ -1,0 +1,18 @@
+{
+  "name": "Tails & Trails Open Image Archive NFT metadata",
+  "standard": "ERC-1155",
+  "chain": "Base",
+  "chainId": 8453,
+  "tokenCount": 173,
+  "publicMintPrice": "0",
+  "maxSupplyPerToken": 100,
+  "publicClaimsPerAddress": 1,
+  "tokenFilenamePattern": "64-character lowercase hexadecimal token ID.json",
+  "imageCid": "bafybeibih53fowordd7otgcy74wzvqnplcnzxl3np4xxeewqy3bxnfj6h4",
+  "sourceCatalogSha256": "9174001ac178466f72b3836f5258e7f3b983db181dd75f9d6a35643ffe951a59",
+  "merkleRoot": "1992e5981e846e1a73d997b363c51ea9efaff5828d930b361012107637090f48",
+  "releaseManifestSha256": "5b682cff923bf5ce140af008351f2deb375cbe53a1be00adf9b77f590e996d6a",
+  "doi": "https://doi.org/10.5281/zenodo.21856091",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "copyrightNotice": "NFT ownership does not transfer copyright or create exclusive image rights."
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Tails & Trails Archive Photo 094",
+  "description": "A dog with a white and black coat looking toward the camera indoors in Ericeira, Portugal. This NFT is a public provenance and collection token for an openly licensed archive record. The image remains CC BY 4.0; token ownership does not transfer copyright or create exclusive image rights.",
+  "image": "ipfs://bafybeibih53fowordd7otgcy74wzvqnplcnzxl3np4xxeewqy3bxnfj6h4/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-045/tails-and-trails-pet-care-ericeira-094.jpg",
+  "external_url": "https://tails-and-trails.github.io/ericeira-dog-photos/094/",
+  "background_color": "F3EADF",
+  "attributes": [
+    {
+      "trait_type": "Archive record",
+      "value": "094"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "dog"
+    },
+    {
+      "trait_type": "Location",
+      "value": "Ericeira, Mafra, Portugal"
+    },
+    {
+      "trait_type": "Licence",
+      "value": "CC BY 4.0"
+    },
+    {
+      "trait_type": "Collection version",
+      "value": "2.0-metadata"
+    }
+  ],
+  "properties": {
+    "creator": "Tails & Trails Archive",
+    "credit": "Tails & Trails Archive",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "acquireLicensePage": "https://tails-and-trails.github.io/licence/",
+    "sha256": "54baa3f5cc0052185f60c17fa4acc31f4411ce6ec01dd679bc59bc2f8f62bed6",
+    "merkleRoot": "1992e5981e846e1a73d997b363c51ea9efaff5828d930b361012107637090f48",
+    "integrityRegistry": "https://tails-and-trails.github.io/pet-sitter/blockchain-registry/",
+    "doi": "https://doi.org/10.5281/zenodo.21856091",
+    "commons": "https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20094.jpg",
+    "iiif": "https://tails-and-trails.github.io/iiif/manifest/094.json",
+    "coordinateScope": "approximate Ericeira locality coordinate; not exact capture location"
+  }
+}

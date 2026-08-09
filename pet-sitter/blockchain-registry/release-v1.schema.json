@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tails-and-trails.github.io/tailsandtrails/blockchain-registry/release-v1.schema.json",
+  "title": "Tails & Trails integrity registry release",
+  "type": "object",
+  "required": [
+    "registry",
+    "version",
+    "image_count",
+    "hash_algorithm",
+    "merkle_root",
+    "proof_set",
+    "proof_set_sha256",
+    "source_commit",
+    "timestamp_proof"
+  ],
+  "properties": {
+    "registry": { "type": "string" },
+    "version": { "type": "integer", "minimum": 1 },
+    "image_count": { "type": "integer", "minimum": 1 },
+    "hash_algorithm": { "const": "SHA-256" },
+    "merkle_root": { "$ref": "#/$defs/sha256" },
+    "proof_set": { "type": "string" },
+    "proof_set_sha256": { "$ref": "#/$defs/sha256" },
+    "source_commit": { "type": "string", "pattern": "^[a-f0-9]{40}$" },
+    "timestamp_proof": { "type": "string" }
+  },
+  "$defs": {
+    "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://tails-and-trails.github.io/tailsandtrails/blockchain-registry/proofs-v1.schema.json",
+  "title": "Tails & Trails image Merkle proofs",
+  "type": "object",
+  "required": ["registry", "version", "image_count", "merkle_root", "records"],
+  "properties": {
+    "registry": { "type": "string" },
+    "version": { "type": "integer", "minimum": 1 },
+    "image_count": { "type": "integer", "minimum": 1 },
+    "merkle_root": { "$ref": "#/$defs/sha256" },
+    "records": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["sequence", "filename", "sha256", "leaf_hash", "proof"],
+        "properties": {
+          "sequence": { "type": "integer", "minimum": 1 },
+          "filename": { "type": "string" },
+          "sha256": { "$ref": "#/$defs/sha256" },
+          "leaf_hash": { "$ref": "#/$defs/sha256" },
+          "proof": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["position", "hash"],
+              "properties": {
+                "position": { "enum": ["left", "right"] },
+                "hash": { "$ref": "#/$defs/sha256" }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" }
+  }
+}
