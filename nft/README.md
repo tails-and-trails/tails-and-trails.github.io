@@ -1,11 +1,10 @@
-# Tails & Trails gas-sponsored NFT collection
+# Tails & Trails zero-cost NFT collection
 
 This Foundry project defines the ERC-1155 contract used by the public mint page at
 `https://tails-and-trails.github.io/mint/`.
 
-The mint price is zero. On Base mainnet, the GitHub Pages frontend requests an
-ERC-4337 sponsored transaction through a restricted paymaster proxy. Gas sponsorship
-is an application service and is not promised by the contract itself.
+The mint price is zero. On SKALE Calypso mainnet, free, non-tradeable sFUEL covers
+EVM gas without a card, paymaster or cryptocurrency purchase.
 
 ## Collection rules
 
@@ -22,7 +21,7 @@ is an application service and is not promised by the contract itself.
 forge test
 ```
 
-Deployment requires an organisation-controlled Base smart wallet. The verified GitHub
+Deployment requires the care@tailsandtrails.pt-controlled EOA. The verified GitHub
 Pages metadata can be used initially, then changed once to the final IPFS directory and
 permanently frozen onchain:
 
@@ -31,7 +30,7 @@ NFT_OWNER_ADDRESS=0x... \
 NFT_TOKEN_BASE_URI=https://tails-and-trails.github.io/nft/metadata/{id}.json \
 NFT_COLLECTION_URI=https://tails-and-trails.github.io/nft/metadata/collection.json \
 forge script script/Deploy.s.sol:DeployTailsAndTrailsArchive \
-  --rpc-url base --broadcast --verify
+  --rpc-url skale_calypso --broadcast --verify
 ```
 
-Never commit a private key, recovery phrase, CDP credential, or paymaster URL.
+Never commit a private key, recovery phrase, or CDP credential.

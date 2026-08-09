@@ -66,8 +66,8 @@ writeJson("collection.json", {
 writeJson("manifest.json", {
   name: "Tails & Trails Open Image Archive NFT metadata",
   standard: "ERC-1155",
-  chain: "Base",
-  chainId: 8453,
+  chain: "SKALE Calypso",
+  chainId: 1564830818,
   tokenCount: catalog.images.length,
   publicMintPrice: "0",
   maxSupplyPerToken: 100,

@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.28;
+pragma solidity 0.8.24;
 
 import {ERC1155} from "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
 import {ERC1155Supply} from "@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Supply.sol";
@@ -9,7 +9,7 @@ import {Ownable2Step} from "@openzeppelin/contracts/access/Ownable2Step.sol";
 
 /// @title Tails & Trails Open Image Archive
 /// @notice A zero-price public claim for the 173 CC BY 4.0 archive records.
-/// @dev Gas may be sponsored by a paymaster, but sponsorship is not enforced by this contract.
+/// @dev Deployed on SKALE Calypso, where valueless sFUEL provides zero-cost gas.
 contract TailsAndTrailsArchive is ERC1155, ERC1155Supply, ERC1155Pausable, Ownable2Step {
     uint256 public constant FIRST_TOKEN_ID = 1;
     uint256 public constant LAST_TOKEN_ID = 173;

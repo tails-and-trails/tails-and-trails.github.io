@@ -246,7 +246,7 @@ function pageShell(title, description, canonical, body, jsonLd, extraHead = "") 
     '    <a class="header-cta" href="' + integrityRegistryUrl + '">Verify image provenance <span aria-hidden="true">↗</span></a>',
     "  </header>",
     '  <main id="content">' + body + "</main>",
-    '  <footer class="site-footer"><div><a class="footer-brand" href="/">Tails &amp; Trails</a><p>173 openly licensed companion-animal photographs<br>made in Ericeira, Portugal.</p></div><div class="footer-links"><a href="/#catalogue">Collection</a><a href="/map/">Map &amp; linked data</a><a href="/licence/">CC BY 4.0 reuse</a><a href="/mint/">Gas-sponsored archive mint</a><a href="mailto:care@tailsandtrails.pt">Contact</a></div><p class="footer-note">A small archive made for generous reuse.<br>© 2026 Tails &amp; Trails Archive.</p></footer>',
+    '  <footer class="site-footer"><div><a class="footer-brand" href="/">Tails &amp; Trails</a><p>173 openly licensed companion-animal photographs<br>made in Ericeira, Portugal.</p></div><div class="footer-links"><a href="/#catalogue">Collection</a><a href="/map/">Map &amp; linked data</a><a href="/licence/">CC BY 4.0 reuse</a><a href="/mint/">Zero-cost archive mint</a><a href="mailto:care@tailsandtrails.pt">Contact</a></div><p class="footer-note">A small archive made for generous reuse.<br>© 2026 Tails &amp; Trails Archive.</p></footer>',
     "</body>",
     "</html>",
     ""
@@ -581,7 +581,7 @@ const datasetLd = {
       license: licenceUrl,
       codeRepository: mintRepositoryUrl,
       subjectOf: { "@id": siteRoot + "#archive-contract-source" },
-      description: "The public Base ERC-1155 collection interface for the 173-record Tails & Trails Open Image Archive."
+      description: "The public zero-cost SKALE Calypso ERC-1155 collection interface for the 173-record Tails & Trails Open Image Archive."
     },
     {
       "@type": "SoftwareSourceCode",
@@ -590,7 +590,7 @@ const datasetLd = {
       url: mintContractSourceUrl,
       codeRepository: mintRepositoryUrl,
       programmingLanguage: "Solidity",
-      runtimePlatform: "Base (chain ID 8453)",
+      runtimePlatform: "SKALE Calypso Hub (chain ID 1564830818)",
       license: "https://opensource.org/license/mit"
     }
   ]
@@ -601,8 +601,8 @@ const homeBody = [
   '<section class="principles" aria-label="Archive facts"><div><span class="fact-index">01</span><strong>173</strong><span>public photographs</span></div><div><span class="fact-index">02</span><strong>Ericeira</strong><span>one coastal Portuguese town</span></div><div><span class="fact-index">03</span><strong>CC BY 4.0</strong><span>free to share and adapt</span></div><div><span class="fact-index">04</span><strong>Permanent</strong><span>DOI and preservation mirrors</span></div></section>',
   '<section class="catalogue" id="catalogue"><div class="section-heading"><div><p class="eyebrow">The collection</p><h2>Meet the animals<br>of the archive.</h2></div><div class="section-intro"><p>Quiet portraits, candid walks and everyday moments. Open any photograph for its full caption, reuse terms and verified provenance.</p><div class="collection-index"><span><b>' + ((subjectCounts.dog || 0) + (subjectCounts.dogs || 0)) + '</b> dog photographs</span><span><b>' + ((subjectCounts.cat || 0) + (subjectCounts.cats || 0)) + '</b> cat photographs</span><span><b>' + (subjectCounts.mouse || 0) + '</b> mouse photograph</span></div></div></div><div class="card-grid">' + cards + "</div></section>",
   '<section class="story-panel"><div><p class="eyebrow">Made to travel</p><h2>Beautiful images.<br>Clear permission.</h2></div><div><p>Use the photographs in articles, research, design work, teaching or commercial projects. Credit <strong>Tails &amp; Trails Archive</strong>, link to the record and note any changes.</p><div class="actions"><a class="button light" href="/licence/">Read the simple reuse guide</a><a class="text-link" href="' + rawRoot + 'image-attribution.csv">Download attribution CSV <span aria-hidden="true">↗</span></a></div></div></section>',
-  '<section class="network data-panel"><div class="data-copy"><p class="eyebrow">An archive with a memory</p><h2>Each image carries its story.</h2><p>Scene-specific English and Portuguese captions, privacy-safe locality data and a cryptographic file identifier make the collection useful to people and machines without exposing private capture details.</p></div><div class="data-links"><a href="' + integrityRegistryUrl + '"><span>Bitcoin</span><strong>Integrity registry</strong><i aria-hidden="true">↗</i></a><a href="/mint/"><span>Base</span><strong>Free archive token mint</strong><i aria-hidden="true">↗</i></a><a href="/map/"><span>Explore</span><strong>Map &amp; locality data</strong><i aria-hidden="true">↗</i></a><a href="/knowledge-graph.jsonld"><span>Schema.org</span><strong>Knowledge graph</strong><i aria-hidden="true">↗</i></a><a href="/iiif/collection.json"><span>IIIF 3</span><strong>Presentation collection</strong><i aria-hidden="true">↗</i></a><a href="/dataset/dcat.jsonld"><span>DCAT 3</span><strong>Dataset description</strong><i aria-hidden="true">↗</i></a></div></section>',
-  '<section class="network preservation"><div class="section-heading"><div><p class="eyebrow">Preserved in public</p><h2>One collection.<br>Independent copies.</h2></div><p>The archive is mirrored across trusted public services so the photographs, attribution and provenance remain available beyond any single website.</p></div><div class="link-grid"><a href="' + githubRoot + '"><span class="link-index">01</span><strong>GitHub registry</strong><span>Files, attribution and machine index</span></a><a href="' + zenodoUrl + '"><span class="link-index">02</span><strong>Zenodo</strong><span>Versioned dataset with a permanent DOI</span></a><a href="' + ipfsRoot + '"><span class="link-index">03</span><strong>IPFS</strong><span>Immutable preservation copy</span></a><a href="' + commonsUrl + '"><span class="link-index">04</span><strong>Wikimedia Commons</strong><span>Structured open-media discovery</span></a><a href="' + archiveOrgUrl + '"><span class="link-index">05</span><strong>Internet Archive</strong><span>Long-term public record</span></a><a href="' + integrityRegistryUrl + '"><span class="link-index">06</span><strong>Bitcoin integrity proof</strong><span>OpenTimestamps and 173 Merkle proofs</span></a><a href="' + mintUrl + '"><span class="link-index">07</span><strong>Free Base archive collection</strong><span>Public ERC-1155 collection interface</span></a><a href="' + mintContractSourceUrl + '"><span class="link-index">08</span><strong>ERC-1155 contract source</strong><span>Public tested Solidity implementation</span></a></div></section>'
+  '<section class="network data-panel"><div class="data-copy"><p class="eyebrow">An archive with a memory</p><h2>Each image carries its story.</h2><p>Scene-specific English and Portuguese captions, privacy-safe locality data and a cryptographic file identifier make the collection useful to people and machines without exposing private capture details.</p></div><div class="data-links"><a href="' + integrityRegistryUrl + '"><span>Bitcoin</span><strong>Integrity registry</strong><i aria-hidden="true">↗</i></a><a href="/mint/"><span>SKALE</span><strong>Free archive token mint</strong><i aria-hidden="true">↗</i></a><a href="/map/"><span>Explore</span><strong>Map &amp; locality data</strong><i aria-hidden="true">↗</i></a><a href="/knowledge-graph.jsonld"><span>Schema.org</span><strong>Knowledge graph</strong><i aria-hidden="true">↗</i></a><a href="/iiif/collection.json"><span>IIIF 3</span><strong>Presentation collection</strong><i aria-hidden="true">↗</i></a><a href="/dataset/dcat.jsonld"><span>DCAT 3</span><strong>Dataset description</strong><i aria-hidden="true">↗</i></a></div></section>',
+  '<section class="network preservation"><div class="section-heading"><div><p class="eyebrow">Preserved in public</p><h2>One collection.<br>Independent copies.</h2></div><p>The archive is mirrored across trusted public services so the photographs, attribution and provenance remain available beyond any single website.</p></div><div class="link-grid"><a href="' + githubRoot + '"><span class="link-index">01</span><strong>GitHub registry</strong><span>Files, attribution and machine index</span></a><a href="' + zenodoUrl + '"><span class="link-index">02</span><strong>Zenodo</strong><span>Versioned dataset with a permanent DOI</span></a><a href="' + ipfsRoot + '"><span class="link-index">03</span><strong>IPFS</strong><span>Immutable preservation copy</span></a><a href="' + commonsUrl + '"><span class="link-index">04</span><strong>Wikimedia Commons</strong><span>Structured open-media discovery</span></a><a href="' + archiveOrgUrl + '"><span class="link-index">05</span><strong>Internet Archive</strong><span>Long-term public record</span></a><a href="' + integrityRegistryUrl + '"><span class="link-index">06</span><strong>Bitcoin integrity proof</strong><span>OpenTimestamps and 173 Merkle proofs</span></a><a href="' + mintUrl + '"><span class="link-index">07</span><strong>Free SKALE archive collection</strong><span>Public ERC-1155 collection interface</span></a><a href="' + mintContractSourceUrl + '"><span class="link-index">08</span><strong>ERC-1155 contract source</strong><span>Public tested Solidity implementation</span></a></div></section>'
 ].join("\n");
 
 write("index.html", pageShell(
@@ -933,7 +933,7 @@ const catalogJson = {
   iiif_collection: iiifCollectionUrl,
   iiif_change_discovery: iiifActivityUrl,
   integrity_registry: integrityRegistryUrl,
-  mint: { application: mintUrl, network: "Base", chain_id: 8453, source_contract: mintContractSourceUrl, contract_address: null },
+  mint: { application: mintUrl, network: "SKALE Calypso", chain_id: 1564830818, source_contract: mintContractSourceUrl, contract_address: null },
   doi: zenodoUrl,
   mirrors: { zenodo: zenodoUrl, ipfs: ipfsRoot, wikimedia_commons: commonsUrl, internet_archive: archiveOrgUrl },
   images: items
@@ -989,8 +989,8 @@ write("llms.txt", [
   "- [Image sitemap](" + siteRoot + "image-sitemap.xml): Search-engine image inventory.",
   "- [Reuse guide](" + licenceUrl + "): CC BY 4.0 attribution and reuse guidance.",
   "- [Ericeira archive map](" + siteRoot + "map/): Privacy-safe locality map and linked geographic data.",
-  "- [Free archive token mint](" + mintUrl + "): Zero-price ERC-1155 claim on Base with archive-sponsored network gas.",
-  "- [ERC-1155 contract source](" + mintContractSourceUrl + "): Public MIT-licensed Solidity source targeting Base chain ID 8453.",
+  "- [Free archive token mint](" + mintUrl + "): Zero-price ERC-1155 claim on SKALE Calypso using free, non-tradeable sFUEL.",
+  "- [ERC-1155 contract source](" + mintContractSourceUrl + "): Public MIT-licensed Solidity source targeting SKALE Calypso chain ID 1564830818.",
   "",
   "## Linked Data",
   "",

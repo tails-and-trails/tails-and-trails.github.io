@@ -29,8 +29,8 @@
   "iiif_change_discovery": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
   "mint": {
     "application": "https://tails-and-trails.github.io/mint/",
-    "network": "Base",
-    "chain_id": 8453,
+    "network": "SKALE Calypso",
+    "chain_id": 1564830818,
     "source_contract": "https://github.com/tails-and-trails/tails-and-trails.github.io/blob/main/nft/src/TailsAndTrailsArchive.sol",
     "contract_address": null
   },

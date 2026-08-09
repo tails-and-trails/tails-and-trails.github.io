@@ -7029,7 +7029,7 @@
       "subjectOf": {
         "@id": "https://tails-and-trails.github.io/#archive-contract-source"
       },
-      "description": "The public Base ERC-1155 collection interface for the 173-record Tails & Trails Open Image Archive."
+      "description": "The public zero-cost SKALE Calypso ERC-1155 collection interface for the 173-record Tails & Trails Open Image Archive."
     },
     {
       "@type": "SoftwareSourceCode",
@@ -7038,7 +7038,7 @@
       "url": "https://github.com/tails-and-trails/tails-and-trails.github.io/blob/main/nft/src/TailsAndTrailsArchive.sol",
       "codeRepository": "https://github.com/tails-and-trails/tails-and-trails.github.io/tree/main/nft",
       "programmingLanguage": "Solidity",
-      "runtimePlatform": "Base (chain ID 8453)",
+      "runtimePlatform": "SKALE Calypso Hub (chain ID 1564830818)",
       "license": "https://opensource.org/license/mit"
     }
   ]

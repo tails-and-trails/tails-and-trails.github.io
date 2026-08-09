@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.28;
+pragma solidity 0.8.24;
 
 import {Test} from "forge-std/Test.sol";
 import {Ownable} from "@openzeppelin/contracts/access/Ownable.sol";
@@ -76,6 +76,31 @@ contract TailsAndTrailsArchiveTest is Test {
         vm.prank(owner);
         vm.expectRevert(TailsAndTrailsArchive.InvalidTokenId.selector);
         archive.ownerMintBatch(owner, ids, amounts);
+    }
+
+    function testOwnerCanMintFullArchiveReserveInFourBatches() public {
+        uint256 start = 1;
+        while (start <= 173) {
+            uint256 end = start + 49;
+            if (end > 173) end = 173;
+            uint256 length = end - start + 1;
+            uint256[] memory ids = new uint256[](length);
+            uint256[] memory amounts = new uint256[](length);
+
+            for (uint256 i; i < length; ++i) {
+                ids[i] = start + i;
+                amounts[i] = 1;
+            }
+
+            vm.prank(owner);
+            archive.ownerMintBatch(owner, ids, amounts);
+            start = end + 1;
+        }
+
+        for (uint256 tokenId = 1; tokenId <= 173; ++tokenId) {
+            assertEq(archive.balanceOf(owner, tokenId), 1);
+            assertEq(archive.totalSupply(tokenId), 1);
+        }
     }
 
     function testOwnerCanUpdateMetadataBeforeFreeze() public {
