@@ -1,0 +1,12 @@
+nft/cache/
+nft/lib/
+nft/out/
+nft/broadcast/
+mint-app/node_modules/
+mint-app/dist/
+mint-app/*.tsbuildinfo
+mint-app/vite.config.js
+mint-app/vite.config.d.ts
+.env
+.env.*
+!.env.example

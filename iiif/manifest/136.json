@@ -1,0 +1,186 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://tails-and-trails.github.io/iiif/manifest/136.json",
+  "type": "Manifest",
+  "label": {
+    "en": [
+      "Black-and-tan dog sitting — archive photo 136"
+    ],
+    "pt": [
+      "cão de pelagem preta e castanha sentado — fotografia de arquivo 136"
+    ]
+  },
+  "summary": {
+    "en": [
+      "A dog with a black and tan coat sitting on Portuguese cobblestones in Ericeira, Portugal — archive photo 136."
+    ],
+    "pt": [
+      "Um cão de pelagem preta e castanha sentado na calçada portuguesa, na Ericeira, Portugal — fotografia de arquivo 136."
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "en": [
+          "Creator"
+        ],
+        "pt": [
+          "Criador"
+        ]
+      },
+      "value": {
+        "en": [
+          "Tails & Trails Archive"
+        ],
+        "pt": [
+          "Tails & Trails Archive"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "Location scope"
+        ],
+        "pt": [
+          "Âmbito da localização"
+        ]
+      },
+      "value": {
+        "en": [
+          "Ericeira locality; not an exact capture location"
+        ],
+        "pt": [
+          "Localidade da Ericeira; não é o local exato da fotografia"
+        ]
+      }
+    },
+    {
+      "label": {
+        "en": [
+          "SHA-256"
+        ]
+      },
+      "value": {
+        "none": [
+          "fd08c08dc2a09fbb02347062dee272eec6c395969ab025adfac59da77ddca9df"
+        ]
+      }
+    }
+  ],
+  "rights": "https://creativecommons.org/licenses/by/4.0/",
+  "requiredStatement": {
+    "label": {
+      "en": [
+        "Attribution"
+      ],
+      "pt": [
+        "Atribuição"
+      ]
+    },
+    "value": {
+      "en": [
+        "Photograph 136 © Tails & Trails Archive · CC BY 4.0"
+      ],
+      "pt": [
+        "Fotografia 136 © Tails & Trails Archive · CC BY 4.0"
+      ]
+    }
+  },
+  "provider": [
+    {
+      "id": "https://tails-and-trails.github.io/#organization",
+      "type": "Agent",
+      "label": {
+        "en": [
+          "Tails & Trails Archive"
+        ]
+      },
+      "homepage": [
+        {
+          "id": "https://tails-and-trails.github.io/",
+          "type": "Text",
+          "label": {
+            "en": [
+              "Tails & Trails Open Image Archive"
+            ]
+          },
+          "format": "text/html"
+        }
+      ]
+    }
+  ],
+  "homepage": [
+    {
+      "id": "https://tails-and-trails.github.io/ericeira-dog-photos/136/",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Canonical archive record"
+        ],
+        "pt": [
+          "Registo canónico do arquivo"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "seeAlso": [
+    {
+      "id": "https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20136.jpg",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Wikimedia Commons record"
+        ]
+      },
+      "format": "text/html"
+    }
+  ],
+  "thumbnail": [
+    {
+      "id": "https://tails-and-trails.github.io/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-074/tails-and-trails-pet-care-ericeira-136.jpg",
+      "type": "Image",
+      "format": "image/jpeg",
+      "width": 1440,
+      "height": 1535
+    }
+  ],
+  "items": [
+    {
+      "id": "https://tails-and-trails.github.io/iiif/canvas/136",
+      "type": "Canvas",
+      "label": {
+        "en": [
+          "Archive photo 136"
+        ],
+        "pt": [
+          "Fotografia de arquivo 136"
+        ]
+      },
+      "width": 1440,
+      "height": 1535,
+      "items": [
+        {
+          "id": "https://tails-and-trails.github.io/iiif/page/136/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://tails-and-trails.github.io/iiif/annotation/136/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "target": "https://tails-and-trails.github.io/iiif/canvas/136",
+              "body": {
+                "id": "https://tails-and-trails.github.io/ericeira-pet-care-images/tails-and-trails-pet-care-ericeira-074/tails-and-trails-pet-care-ericeira-136.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1440,
+                "height": 1535
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

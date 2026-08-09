@@ -1,0 +1,51 @@
+# Tails & Trails Open Image Archive
+
+> A public collection of 173 CC BY 4.0 dog, cat and companion-animal photographs from Ericeira, Portugal, with bilingual captions, file-level attribution, linked preservation records and cryptographic integrity proofs.
+
+The canonical archive is `https://tails-and-trails.github.io/`. It is operated by Tails & Trails Archive and is related to, but distinct from, the pet-care service at `https://tailsandtrails.pt/`. The public locality is approximate and must not be interpreted as an exact capture location or residential address.
+
+## Catalogue
+
+- [Open image archive](https://tails-and-trails.github.io/): Searchable human-readable catalogue with one record per photograph.
+- [Machine-readable catalogue](https://tails-and-trails.github.io/catalog.json): JSON metadata for all 173 images.
+- [Image sitemap](https://tails-and-trails.github.io/image-sitemap.xml): Search-engine image inventory.
+- [Reuse guide](https://creativecommons.org/licenses/by/4.0/): CC BY 4.0 attribution and reuse guidance.
+- [Ericeira archive map](https://tails-and-trails.github.io/map/): Privacy-safe locality map and linked geographic data.
+- [Free archive token mint](https://tails-and-trails.github.io/mint/): Zero-price ERC-1155 claim on SKALE Calypso using free, non-tradeable sFUEL.
+- [ERC-1155 contract source](https://github.com/tails-and-trails/tails-and-trails.github.io/blob/main/nft/src/TailsAndTrailsArchive.sol): Public MIT-licensed Solidity source targeting SKALE Calypso chain ID 1564830818.
+
+## Linked Data
+
+- [Schema.org knowledge graph](https://tails-and-trails.github.io/knowledge-graph.jsonld): Dataset, archive organization and 173 ImageObject entities.
+- [DCAT 3 JSON-LD](https://tails-and-trails.github.io/dataset/dcat.jsonld): Machine-readable dataset catalogue and distributions.
+- [DCAT 3 Turtle](https://tails-and-trails.github.io/dataset/dcat.ttl): Turtle serialization of the dataset record.
+- [IIIF Presentation collection](https://tails-and-trails.github.io/iiif/collection.json): IIIF collection with one manifest per photograph.
+- [GeoJSON locality data](https://tails-and-trails.github.io/maps/ericeira-photo-archive.geojson): Approximate Ericeira locality records.
+- [KML locality data](https://tails-and-trails.github.io/maps/ericeira-photo-archive.kml): Google Earth-compatible approximate locality records.
+
+## Integrity and Preservation
+
+- [Bitcoin image integrity registry](https://tails-and-trails.github.io/pet-sitter/blockchain-registry/): Canonical verification page for the version-1 Merkle registry.
+- [Registry llms.txt](https://tails-and-trails.github.io/pet-sitter/blockchain-registry/llms.txt): Registry-specific AI-readable source index.
+- [GitHub attribution registry](https://github.com/tails-and-trails/tailsandtrails): Canonical files, attribution CSV and verification source.
+- [Zenodo DOI](https://doi.org/10.5281/zenodo.21856091): Permanent versioned dataset record.
+- [Wikimedia Commons files](https://commons.wikimedia.org/wiki/Special:ListFiles/TailsAndTrailsArchive): Open-media records.
+- [Internet Archive mirror](https://archive.org/details/tails-and-trails-ericeira-dog-photography-archive): Preservation copy and public record.
+- [IPFS preservation copy](https://gateway.pinata.cloud/ipfs/bafybeibih53fowordd7otgcy74wzvqnplcnzxl3np4xxeewqy3bxnfj6h4/): Metadata-safe immutable copy.
+
+## Related Tails & Trails Property
+
+- [Tails & Trails](https://tailsandtrails.pt/): Canonical pet-care website.
+- [Tails & Trails llms.txt](https://tailsandtrails.pt/llms.txt): AI-readable service-site index.
+- [Tails & Trails knowledge graph](https://tailsandtrails.pt/knowledge-graph.jsonld): Canonical business and cross-property entities.
+
+## Optional
+
+- [Archive organization on GitHub](https://github.com/tails-and-trails): Public organization profile.
+- [Wikimedia Commons creator profile](https://commons.wikimedia.org/wiki/User:TailsAndTrailsArchive): Archive creator and licensing identity.
+- [Medium archive profile](https://medium.com/@tailsandtrailsarchive): Archive publication profile.
+- [Tumblr archive profile](https://www.tumblr.com/tailsandtrailsarchive): Archive publication profile.
+- [Blogger archive](https://tailsandtrailsarchive.blogspot.com/): Archive publication profile.
+- [Google Sites archive page](https://sites.google.com/view/tails-trails-archive/home): Discovery page for the same dataset.
+- [Wix archive page](https://care1626.wixsite.com/tails-1): Discovery page for the same dataset.
+- [Canva open archive](https://tails-and-trails-archive.my.canva.site/): Visual introduction to the collection, CC BY 4.0 licence and preservation registry.

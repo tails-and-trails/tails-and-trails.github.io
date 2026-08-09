@@ -1,0 +1,28 @@
+{
+  "@context": "http://iiif.io/api/discovery/1/context.json",
+  "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+  "type": "OrderedCollection",
+  "totalItems": 173,
+  "rights": "https://creativecommons.org/licenses/by/4.0/",
+  "seeAlso": [
+    {
+      "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+      "type": "Dataset",
+      "label": {
+        "en": [
+          "DCAT 3 description of this collection"
+        ]
+      },
+      "format": "application/ld+json",
+      "profile": "http://www.w3.org/ns/dcat#"
+    }
+  ],
+  "first": {
+    "id": "https://tails-and-trails.github.io/iiif/activity/page-0.json",
+    "type": "OrderedCollectionPage"
+  },
+  "last": {
+    "id": "https://tails-and-trails.github.io/iiif/activity/page-0.json",
+    "type": "OrderedCollectionPage"
+  }
+}

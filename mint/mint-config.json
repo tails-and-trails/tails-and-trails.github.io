@@ -1,0 +1,10 @@
+{
+  "projectId": "ed543649-466d-4cdc-a735-5d01311bf133",
+  "network": "skale-calypso",
+  "chainId": 1564830818,
+  "contractAddress": null,
+  "metadataCid": null,
+  "mintingEnabled": false,
+  "maxSupplyPerToken": 100,
+  "collectionSize": 173
+}

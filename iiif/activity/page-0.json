@@ -1,0 +1,3645 @@
+{
+  "@context": "http://iiif.io/api/discovery/1/context.json",
+  "id": "https://tails-and-trails.github.io/iiif/activity/page-0.json",
+  "type": "OrderedCollectionPage",
+  "startIndex": 0,
+  "partOf": {
+    "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+    "type": "OrderedCollection"
+  },
+  "orderedItems": [
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 001 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/001.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 002 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/002.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 003 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/003.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 004 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/004.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 005 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/005.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 006 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/006.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 007 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/007.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 008 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/008.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 009 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/009.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 010 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/010.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 011 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/011.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 012 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/012.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 013 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/013.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 014 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/014.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 015 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/015.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 016 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/016.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 017 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/017.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 018 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/018.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 019 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/019.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 020 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/020.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 021 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/021.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 022 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/022.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 023 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/023.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 024 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/024.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 025 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/025.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 026 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/026.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 027 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/027.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 028 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/028.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 029 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/029.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 030 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/030.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 031 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/031.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 032 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/032.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 033 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/033.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 034 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/034.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 035 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/035.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 036 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/036.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 037 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/037.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 038 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/038.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 039 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/039.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 040 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/040.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 041 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/041.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 042 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/042.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 043 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/043.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 044 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/044.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 045 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/045.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 046 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/046.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 047 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/047.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 048 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/048.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 049 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/049.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 050 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/050.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 051 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/051.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 052 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/052.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 053 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/053.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 054 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/054.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 055 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/055.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 056 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/056.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 057 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/057.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 058 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/058.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 059 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/059.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 060 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/060.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 061 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/061.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 062 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/062.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 063 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/063.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 064 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/064.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 065 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/065.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 066 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/066.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 067 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/067.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 068 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/068.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 069 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/069.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 070 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/070.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 071 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/071.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 072 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/072.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 073 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/073.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 074 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/074.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 075 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/075.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 076 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/076.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 077 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/077.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 078 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/078.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 079 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/079.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 080 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/080.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 081 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/081.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 082 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/082.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 083 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/083.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 084 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/084.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 085 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/085.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 086 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/086.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 087 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/087.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 088 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/088.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 089 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/089.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 090 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/090.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 091 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/091.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 092 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/092.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 093 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/093.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 094 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/094.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 095 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/095.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 096 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/096.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 097 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/097.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 098 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/098.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 099 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/099.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 100 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/100.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 101 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/101.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 102 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/102.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 103 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/103.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 104 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/104.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 105 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/105.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 106 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/106.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 107 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/107.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 108 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/108.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 109 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/109.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 110 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/110.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 111 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/111.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 112 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/112.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 113 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/113.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 114 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/114.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 115 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/115.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 116 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/116.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 117 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/117.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 118 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/118.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 119 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/119.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 120 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/120.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 121 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/121.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 122 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/122.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 123 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/123.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 124 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/124.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 125 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/125.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 126 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/126.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 127 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/127.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 128 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/128.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 129 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/129.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 130 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/130.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 131 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/131.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 132 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/132.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 133 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/133.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 134 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/134.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 135 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/135.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 136 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/136.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 137 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/137.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 138 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/138.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 139 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/139.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 140 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/140.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 141 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/141.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 142 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/142.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 143 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/143.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 144 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/144.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 145 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/145.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 146 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/146.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 147 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/147.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 148 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/148.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 149 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/149.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 150 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/150.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 151 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/151.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 152 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/152.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 153 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/153.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 154 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/154.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 155 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/155.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 156 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/156.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 157 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/157.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 158 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/158.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 159 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/159.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 160 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/160.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 161 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/161.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 162 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/162.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 163 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/163.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 164 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/164.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 165 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/165.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 166 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/166.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 167 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/167.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 168 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/168.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 169 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/169.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 170 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/170.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 171 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/171.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 172 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/172.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    },
+    {
+      "type": "Add",
+      "summary": "Added archive manifest 173 to the discovery stream",
+      "object": {
+        "id": "https://tails-and-trails.github.io/iiif/manifest/173.json",
+        "type": "Manifest",
+        "seeAlso": [
+          {
+            "id": "https://tails-and-trails.github.io/dataset/dcat.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json",
+            "profile": "http://www.w3.org/ns/dcat#"
+          }
+        ]
+      },
+      "target": {
+        "id": "https://tails-and-trails.github.io/iiif/activity/all-changes.json",
+        "type": "OrderedCollection"
+      },
+      "endTime": "2026-08-09T00:00:00Z"
+    }
+  ]
+}

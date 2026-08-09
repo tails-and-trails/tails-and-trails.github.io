@@ -1,0 +1,28 @@
+# Tails & Trails Bitcoin Image Integrity Registry
+
+> A public SHA-256 Merkle registry, OpenTimestamps proof and 173 individual inclusion proofs for the Tails & Trails Open Image Archive.
+
+The canonical registry URL is `https://tails-and-trails.github.io/pet-sitter/blockchain-registry/`. The registry proves file integrity and existence evidence; it does not by itself prove copyright ownership. Version-1 proof files are immutable and may retain historical source URLs internally.
+
+## Registry
+
+- [Integrity registry](https://tails-and-trails.github.io/pet-sitter/blockchain-registry/): Canonical human-readable verification page.
+- [Version-1 release manifest](https://tails-and-trails.github.io/pet-sitter/blockchain-registry/release-v1.json): Immutable JSON release manifest.
+- [OpenTimestamps proof](https://tails-and-trails.github.io/pet-sitter/blockchain-registry/release-v1.json.ots): Timestamp proof submitted for Bitcoin anchoring.
+- [Individual Merkle proofs](https://tails-and-trails.github.io/pet-sitter/blockchain-registry/proofs-v1.json): One inclusion proof for each of 173 images.
+- [Merkle root](https://tails-and-trails.github.io/pet-sitter/blockchain-registry/merkle-root-v1.txt): SHA-256 collection root.
+- [Verification program](https://tails-and-trails.github.io/pet-sitter/blockchain-registry/verify-registry.mjs): Public Node.js verifier.
+
+## Collection
+
+- [Tails & Trails Open Image Archive](https://tails-and-trails.github.io/): Canonical image catalogue.
+- [Archive llms.txt](https://tails-and-trails.github.io/llms.txt): AI-readable archive index.
+- [Archive knowledge graph](https://tails-and-trails.github.io/knowledge-graph.jsonld): Schema.org linked-data graph.
+- [Zenodo DOI](https://doi.org/10.5281/zenodo.21856091): Permanent dataset record.
+- [GitHub verification source](https://github.com/tails-and-trails/tailsandtrails/tree/main/blockchain-registry): Reproducible registry source and image hashes.
+
+## Related Business
+
+- [Tails & Trails](https://tailsandtrails.pt/): Canonical pet-care website and exact business identity.
+- [Tails & Trails llms.txt](https://tailsandtrails.pt/llms.txt): AI-readable service-site index.
+- [Tails & Trails knowledge graph](https://tailsandtrails.pt/knowledge-graph.jsonld): Business, archive and registry relationships.

@@ -1,0 +1,23 @@
+{
+  "schema": "https://tails-and-trails.github.io/tailsandtrails/blockchain-registry/release-v1.schema.json",
+  "registry": "tails-and-trails-ericeira-open-image-archive",
+  "title": "Tails & Trails Ericeira Open Image Archive — Integrity Registry",
+  "version": 1,
+  "published": "2026-08-09",
+  "publisher": "Tails & Trails Archive",
+  "image_count": 173,
+  "hash_algorithm": "SHA-256",
+  "merkle_root": "1992e5981e846e1a73d997b363c51ea9efaff5828d930b361012107637090f48",
+  "proof_set": "proofs-v1.json",
+  "proof_set_sha256": "847e3d3eae3119e1d9909251c8c414b55b4c1c27708fdb594b99b8fa013127a3",
+  "source_commit": "0f2d6045141f0ff4fc391938aff84f3b34a9f462",
+  "source_repository": "https://github.com/tails-and-trails/tailsandtrails",
+  "canonical_catalogue": "https://tails-and-trails.github.io/",
+  "doi": "https://doi.org/10.5281/zenodo.21856091",
+  "ipfs": "ipfs://bafybeibih53fowordd7otgcy74wzvqnplcnzxl3np4xxeewqy3bxnfj6h4",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "timestamp_method": "OpenTimestamps anchored to Bitcoin",
+  "timestamp_proof": "release-v1.json.ots",
+  "verification": "README.md",
+  "statement": "This registry proves dataset integrity and, after Bitcoin confirmation, existence no later than the attested block time. It does not by itself establish copyright ownership."
+}

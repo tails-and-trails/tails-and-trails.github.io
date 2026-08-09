@@ -1,0 +1,1219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Tails &amp; Trails — Ericeira Companion Animal Photography Archive</name>
+  <description>173 open archive records. Every point uses an approximate Ericeira locality coordinate, never an exact capture location.</description>
+  <Style id="archive"><IconStyle><color>ff385b45</color><scale>0.7</scale><Icon><href>https://maps.google.com/mapfiles/kml/shapes/camera.png</href></Icon></IconStyle></Style>
+  <Placemark>
+    <name>Black-and-tan dog standing — photo 001</name>
+    <description><![CDATA[<p>A dog with a black and tan coat standing indoors in Ericeira, Portugal — archive photo 001.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/001/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/001/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20001.jpg</value></Data><Data name="sha256"><value>af2ceb13a94a0047d387d84c20bc7b9a3d261ea8dc67c05a488454a64af1c390</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog resting — photo 002</name>
+    <description><![CDATA[<p>A dog with a black coat resting on a bed in Ericeira, Portugal — archive photo 002.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/002/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/002/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20002.jpg</value></Data><Data name="sha256"><value>3db86a5aa55cbba9c5c12751d354ef8e165fe046459789a2e780e8cfd3cd6809</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-grey dog portrait — photo 003</name>
+    <description><![CDATA[<p>A dog with a white and grey coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 003.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/003/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/003/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20003.jpg</value></Data><Data name="sha256"><value>1506bcb8c64c889d521cf00f54f1f94722d90d4ff3abdd811af5a9b06aebcbc1</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog portrait — photo 004</name>
+    <description><![CDATA[<p>A dog with a cream coat looking toward the camera on pavement in Ericeira, Portugal — archive photo 004.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/004/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/004/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20004.jpg</value></Data><Data name="sha256"><value>9cf30a371cd3f66102b93a22ca6a3da23eb342aa5e617bca5c3ae355798c7951</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog portrait — photo 005</name>
+    <description><![CDATA[<p>A dog with a cream coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 005.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/005/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/005/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20005.jpg</value></Data><Data name="sha256"><value>bdfa7ab93b2a90eb8d7246bfdff1df02205f8d5395572510153fde0cb8e32e6b</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog portrait — photo 006</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat looking toward the camera indoors in Ericeira, Portugal — archive photo 006.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/006/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/006/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20006.jpg</value></Data><Data name="sha256"><value>4e0a29319e8e44d89c0a2d188cc92eb8e7cd445aae5d98c2124b3d0318a5a5d2</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog portrait — photo 007</name>
+    <description><![CDATA[<p>A dog with a white coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 007.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/007/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/007/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20007.jpg</value></Data><Data name="sha256"><value>9f4a34f70c5245b9ea65369766413b0d31e4871b04825b76b4dd2257aff24315</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog resting — photo 008</name>
+    <description><![CDATA[<p>A dog with a cream coat resting on a bed in Ericeira, Portugal — archive photo 008.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/008/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/008/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20008.jpg</value></Data><Data name="sha256"><value>d1d2177b8b73a6b6c54f884ec7b63b0b202d6987309d313aa655cbd682360a71</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-grey dog standing — photo 009</name>
+    <description><![CDATA[<p>A dog with a black and grey coat standing indoors in Ericeira, Portugal — archive photo 009.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/009/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/009/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20009.jpg</value></Data><Data name="sha256"><value>5d53f94dc5c5902a7e3ba21b6eae5754f2ab82a09121e538b24cb7358732eef1</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog profile — photo 010</name>
+    <description><![CDATA[<p>A dog with a black coat looking to the side on grass in Ericeira, Portugal — archive photo 010.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/010/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/010/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20010.jpg</value></Data><Data name="sha256"><value>ae98f58358c8f58fa2a56eaa3d0e6cfd412938a153e170a921a3ef5fb3f96ab3</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog sitting — photo 011</name>
+    <description><![CDATA[<p>A dog with a black coat sitting on grass in Ericeira, Portugal — archive photo 011.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/011/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/011/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20011.jpg</value></Data><Data name="sha256"><value>a753a1a4063ac310360346b9962aab1470147fc2b910242ec248623cf4e54307</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog portrait — photo 012</name>
+    <description><![CDATA[<p>A dog with a black coat looking toward the camera on grass in Ericeira, Portugal — archive photo 012.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/012/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/012/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20012.jpg</value></Data><Data name="sha256"><value>fe16e2f99424e7d3233b3431715e29c1ec597b12f2fcd751f6ee203884862d04</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog resting — photo 013</name>
+    <description><![CDATA[<p>A dog with a black coat resting on pavement in Ericeira, Portugal — archive photo 013.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/013/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/013/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20013.jpg</value></Data><Data name="sha256"><value>750f031620fb80f0d543bb2c7741d9b456ab55e3311641a281e8eac0138e2aab</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog sniffing — photo 014</name>
+    <description><![CDATA[<p>A dog with a black coat sniffing on grass in Ericeira, Portugal — archive photo 014.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/014/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/014/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20014.jpg</value></Data><Data name="sha256"><value>d52b45cea28766a834d972f9fdb8deea958fe78c78ddc1edf09b4ec6cb77ed33</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mixed-coat dogs together — photo 015</name>
+    <description><![CDATA[<p>Two dogs with contrasting coats together in a park in Ericeira, Portugal — archive photo 015.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/015/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/015/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20015.jpg</value></Data><Data name="sha256"><value>779c55003b586784bcdc4ac5a55f961b45523e90d7fbecf0adb5b31b903647bd</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mixed-coat dogs greeting — photo 016</name>
+    <description><![CDATA[<p>Two dogs with contrasting coats greeting one another on a path in Ericeira, Portugal — archive photo 016.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/016/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/016/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20016.jpg</value></Data><Data name="sha256"><value>0b90cd5b26a131f726cb207b912f4a1c8bd5fc6a0e430fe9db6b3b7fd56d49ef</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog resting — photo 017</name>
+    <description><![CDATA[<p>A dog with a tan coat resting on a bench in Ericeira, Portugal — archive photo 017.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/017/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/017/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20017.jpg</value></Data><Data name="sha256"><value>40b8bd458b515ec76f4b0d22326b2510a3af384eabb2876fb82977713aae7649</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog sitting — photo 018</name>
+    <description><![CDATA[<p>A dog with a tan coat sitting on pavement in Ericeira, Portugal — archive photo 018.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/018/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/018/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20018.jpg</value></Data><Data name="sha256"><value>36e9bd8e1de9ddbedd50c460ae1a73914a0961e01c3df9e6ced8c273a6275c8e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fawn dog standing — photo 019</name>
+    <description><![CDATA[<p>A dog with a fawn coat standing in a garden in Ericeira, Portugal — archive photo 019.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/019/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/019/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20019.jpg</value></Data><Data name="sha256"><value>727c9207aeadedf450bfce90532fba6915479ec32f969c1641f1dc1b0e5dc1dd</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fawn dog walking — photo 020</name>
+    <description><![CDATA[<p>A dog with a fawn coat walking on pavement in Ericeira, Portugal — archive photo 020.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/020/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/020/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20020.jpg</value></Data><Data name="sha256"><value>c64d61cdba67cc62979722ccd63049508756640db9fd553b5e1de897e4e46e9c</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Fawn dog portrait — photo 021</name>
+    <description><![CDATA[<p>A dog with a fawn coat looking toward the camera in a garden in Ericeira, Portugal — archive photo 021.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/021/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/021/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20021.jpg</value></Data><Data name="sha256"><value>09a48fc700c41480157bcf71dd3f35df82b36fd97fbce0f9b6e32126d07ce808</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grey dog portrait — photo 022</name>
+    <description><![CDATA[<p>A dog with a grey coat looking toward the camera on grass in Ericeira, Portugal — archive photo 022.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/022/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/022/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20022.jpg</value></Data><Data name="sha256"><value>37034ee0178b0be0eb3629d76d2a7ba28f637563297a21c5bc38c4b75f52d933</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grey dog sitting — photo 023</name>
+    <description><![CDATA[<p>A dog with a grey coat sitting on grass in Ericeira, Portugal — archive photo 023.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/023/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/023/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20023.jpg</value></Data><Data name="sha256"><value>6e5178a471936b1bb1cb90151ad5326e8092e09be7f9dd8bd47f0cb3a17961c2</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grey dog profile — photo 024</name>
+    <description><![CDATA[<p>A dog with a grey coat looking to the side on grass in Ericeira, Portugal — archive photo 024.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/024/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/024/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20024.jpg</value></Data><Data name="sha256"><value>4e87c93a7f7724ab936711bad1790e33bd059ef7fac49b27188517011ef022b8</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog sniffing — photo 025</name>
+    <description><![CDATA[<p>A dog with a white coat sniffing on grass in Ericeira, Portugal — archive photo 025.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/025/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/025/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20025.jpg</value></Data><Data name="sha256"><value>7e27cc5b73ffac54105c115a658dc0a67d7ae809477d53f1568b6681e6af6f20</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog walking — photo 026</name>
+    <description><![CDATA[<p>A dog with a white coat walking on grass in Ericeira, Portugal — archive photo 026.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/026/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/026/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20026.jpg</value></Data><Data name="sha256"><value>968c07bfbb103d6a8566f74a29c9c7338af301c571b0d0c00f162baaac026d5e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog walking — photo 027</name>
+    <description><![CDATA[<p>A dog with a white coat walking on a path in Ericeira, Portugal — archive photo 027.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/027/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/027/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20027.jpg</value></Data><Data name="sha256"><value>47320083f413a217bab94e1463d87a2c81ca788ac8264e88805ee2b2aac1df2d</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog sitting — photo 028</name>
+    <description><![CDATA[<p>A dog with a black and tan coat sitting on grass in Ericeira, Portugal — archive photo 028.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/028/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/028/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20028.jpg</value></Data><Data name="sha256"><value>29c622cf09eb7ba31838052fa366e66ca0f0e218b1880dc315005cc38d246409</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog standing — photo 029</name>
+    <description><![CDATA[<p>A dog with a black and tan coat standing on grass in Ericeira, Portugal — archive photo 029.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/029/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/029/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20029.jpg</value></Data><Data name="sha256"><value>299ae77aff9241b6b6940406609a5c91211426e68fe385ec1c831988d30a0b00</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog portrait — photo 030</name>
+    <description><![CDATA[<p>A dog with a black and tan coat looking toward the camera on grass in Ericeira, Portugal — archive photo 030.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/030/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/030/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20030.jpg</value></Data><Data name="sha256"><value>28b7c18f957d457f9ecf26519d4d6095fd7a5e3ae35c0b8564c305395b122ec0</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog standing — photo 031</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat standing on grass in Ericeira, Portugal — archive photo 031.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/031/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/031/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20031.jpg</value></Data><Data name="sha256"><value>3341aea5a24ba04e6737e5541fc6af6e1795e999dc4fd5da788c48aaa2d4da9b</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog sitting — photo 032</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat sitting on grass in Ericeira, Portugal — archive photo 032.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/032/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/032/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20032.jpg</value></Data><Data name="sha256"><value>26c996eb28cef08548448e9e96452d03f522016d07246f7fee9f74051f856499</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog portrait — photo 033</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat looking toward the camera on grass in Ericeira, Portugal — archive photo 033.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/033/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/033/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20033.jpg</value></Data><Data name="sha256"><value>573b2f88bb0054884e40e9c031bfdda41e2837fd430bf8809fca04b6e458ae87</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog close-up — photo 034</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat shown in a close-up portrait on grass in Ericeira, Portugal — archive photo 034.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/034/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/034/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20034.jpg</value></Data><Data name="sha256"><value>11818c186920c903789c9a35f2a42ceb7b363a201a317b4cc76029c0f42805a1</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog portrait — photo 035</name>
+    <description><![CDATA[<p>A dog with a cream coat looking toward the camera on a tiled floor in Ericeira, Portugal — archive photo 035.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/035/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/035/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20035.jpg</value></Data><Data name="sha256"><value>8640050a463764d10cc034bd1e69a49cb2ab086bab09f7e2255cedc7b8a1327e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog standing — photo 036</name>
+    <description><![CDATA[<p>A dog with a cream coat standing beside a street in Ericeira, Portugal — archive photo 036.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/036/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/036/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20036.jpg</value></Data><Data name="sha256"><value>b86103f3ea64b547265dba4a65cba7c22cbce987358522e03ead52f3b2d22ba6</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog sitting — photo 037</name>
+    <description><![CDATA[<p>A dog with a white coat sitting indoors in Ericeira, Portugal — archive photo 037.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/037/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/037/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20037.jpg</value></Data><Data name="sha256"><value>081bfa4082246e23b54153ee33ab9d48c5433e9bdb445cc03be581e5c2d54140</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog profile — photo 038</name>
+    <description><![CDATA[<p>A dog with a white coat looking to the side indoors in Ericeira, Portugal — archive photo 038.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/038/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/038/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20038.jpg</value></Data><Data name="sha256"><value>814f33742536491649e2a1f141aea28e45449f302f07093d534b51a3b6e8f246</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog portrait — photo 039</name>
+    <description><![CDATA[<p>A dog with a white coat looking toward the camera indoors in Ericeira, Portugal — archive photo 039.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/039/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/039/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20039.jpg</value></Data><Data name="sha256"><value>3276ab910bf048c5d9ad16dd7c0e840d378a7f5abfa2de981c303e347538a2e0</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog sitting — photo 040</name>
+    <description><![CDATA[<p>A dog with a tan coat sitting on Portuguese cobblestones in Ericeira, Portugal — archive photo 040.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/040/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/040/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20040.jpg</value></Data><Data name="sha256"><value>9fe6f5870e4191aa7cf0291a1facce1f0c46ec8e2038ac43142ef7a51ce55df6</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog portrait — photo 041</name>
+    <description><![CDATA[<p>A dog with a tan coat looking toward the camera on Portuguese cobblestones in Ericeira, Portugal — archive photo 041.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/041/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/041/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20041.jpg</value></Data><Data name="sha256"><value>a086bcece19ebcab0e9b38d3eee91fa18b8d2084f46b6dcd10081229fa7a4b18</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog standing — photo 042</name>
+    <description><![CDATA[<p>A dog with a tan coat standing in woodland in Ericeira, Portugal — archive photo 042.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/042/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/042/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20042.jpg</value></Data><Data name="sha256"><value>93af3454403b49894008591b7d0b95650149beb145f8452bab5ab72d90480eab</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog profile — photo 043</name>
+    <description><![CDATA[<p>A dog with a tan coat looking to the side in woodland in Ericeira, Portugal — archive photo 043.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/043/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/043/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20043.jpg</value></Data><Data name="sha256"><value>6084f3cfa61922a36807d3ad0f2822b285c6c82272569fa08c748b84d9eb17a5</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog standing — photo 044</name>
+    <description><![CDATA[<p>A dog with a black coat standing on grass in Ericeira, Portugal — archive photo 044.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/044/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/044/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20044.jpg</value></Data><Data name="sha256"><value>6790ded2df1da0e1836bb7d80137bf0a89dc54b9594accd39a8b70690d86c15c</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog profile — photo 045</name>
+    <description><![CDATA[<p>A dog with a black coat looking to the side on grass in Ericeira, Portugal — archive photo 045.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/045/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/045/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20045.jpg</value></Data><Data name="sha256"><value>0a6474cbc450f57bed93f3b6cba5694d7199b3863bfca7b2e65745bbbc24c78a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog walking — photo 046</name>
+    <description><![CDATA[<p>A dog with a black coat walking on grass in Ericeira, Portugal — archive photo 046.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/046/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/046/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20046.jpg</value></Data><Data name="sha256"><value>6098477962921b5a0f310a02c47ff71ae5313003c6d9f132a0025b71a66250af</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog standing — photo 047</name>
+    <description><![CDATA[<p>A dog with a tan coat standing in a park in Ericeira, Portugal — archive photo 047.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/047/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/047/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20047.jpg</value></Data><Data name="sha256"><value>802b5e85d901919fc89cc08fe3394b405c3bd10c52b7a768dbc13c7ef0e4adcc</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog profile — photo 048</name>
+    <description><![CDATA[<p>A dog with a tan coat looking to the side in a park in Ericeira, Portugal — archive photo 048.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/048/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/048/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20048.jpg</value></Data><Data name="sha256"><value>c8acca0dd184ec8f02940c6ba6609b7f0ea2a7427bcaf05fac4141aa01db310c</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog sitting — photo 049</name>
+    <description><![CDATA[<p>A dog with a tan coat sitting in a park in Ericeira, Portugal — archive photo 049.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/049/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/049/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20049.jpg</value></Data><Data name="sha256"><value>684e1c27edf5239b3e0914c81ce5a83c100c693c318a224a71e2ec1fcb80ad6c</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog portrait — photo 050</name>
+    <description><![CDATA[<p>A dog with a tan coat looking toward the camera indoors in Ericeira, Portugal — archive photo 050.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/050/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/050/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20050.jpg</value></Data><Data name="sha256"><value>fe5b63d16964c70d42fb0f2e675d85d00ae24c405398b101e8dff69012aa6834</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-brown dog standing — photo 051</name>
+    <description><![CDATA[<p>A dog with a white and brown coat standing on Portuguese cobblestones in Ericeira, Portugal — archive photo 051.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/051/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/051/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20051.jpg</value></Data><Data name="sha256"><value>e64b5bfa44033f3c6408c2a14aa72e65de8a63b879af31b871c35435abda409d</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden dog portrait — photo 052</name>
+    <description><![CDATA[<p>A dog with a golden coat looking toward the camera on Portuguese cobblestones in Ericeira, Portugal — archive photo 052.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/052/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/052/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20052.jpg</value></Data><Data name="sha256"><value>7e001705a67f687eab27159d9500561b4cca3b399dcc5b4587e8cb00590dfedd</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden dog sitting — photo 053</name>
+    <description><![CDATA[<p>A dog with a golden coat sitting on Portuguese cobblestones in Ericeira, Portugal — archive photo 053.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/053/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/053/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20053.jpg</value></Data><Data name="sha256"><value>ec63c5e6c865ba43c767d74158eeb652e20649bb4a11703d00950a66ef9ea573</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog sitting — photo 054</name>
+    <description><![CDATA[<p>A dog with a black and white coat sitting beside a street in Ericeira, Portugal — archive photo 054.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/054/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/054/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20054.jpg</value></Data><Data name="sha256"><value>7980b4af55da355d0ebe9145997f8553f7990e555919a9d17fd96c11182d1319</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog profile — photo 055</name>
+    <description><![CDATA[<p>A dog with a black and white coat looking to the side beside a street in Ericeira, Portugal — archive photo 055.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/055/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/055/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20055.jpg</value></Data><Data name="sha256"><value>835f023f129180c5d4d4bf7a4812172c29133362087b56713968487a52785885</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown-and-white dog portrait — photo 056</name>
+    <description><![CDATA[<p>A dog with a brown and white coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 056.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/056/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/056/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20056.jpg</value></Data><Data name="sha256"><value>850f9af19c92f3759d75f1f26f812294d7212544afba79bd92f8702c101eaeb1</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown-and-white dog close-up — photo 057</name>
+    <description><![CDATA[<p>A dog with a brown and white coat shown in a close-up portrait outdoors in Ericeira, Portugal — archive photo 057.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/057/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/057/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20057.jpg</value></Data><Data name="sha256"><value>263edd7b21223aa5e9ca05594805167f3d60f869a0a21d433d431c2f9d1bdb54</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog sitting — photo 058</name>
+    <description><![CDATA[<p>A dog with a black and white coat sitting on pavement in Ericeira, Portugal — archive photo 058.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/058/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/058/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20058.jpg</value></Data><Data name="sha256"><value>f8632ceba38f9b8ba34a9ce4a02a13b1c264d85edc8329a430a163197c2a091a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog profile — photo 059</name>
+    <description><![CDATA[<p>A dog with a black and white coat looking to the side on pavement in Ericeira, Portugal — archive photo 059.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/059/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/059/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20059.jpg</value></Data><Data name="sha256"><value>61d914e87961da4205b1977ae1831be2de755b6bc4a9b774011ee78642a639a3</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-brown dog sitting — photo 060</name>
+    <description><![CDATA[<p>A dog with a white and brown coat sitting beside a street in Ericeira, Portugal — archive photo 060.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/060/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/060/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20060.jpg</value></Data><Data name="sha256"><value>7221ae476a986aef34d2846d20b901ec5d840c37ca92f3b970eba9756cd0c02e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-brown dog profile — photo 061</name>
+    <description><![CDATA[<p>A dog with a white and brown coat looking to the side beside a street in Ericeira, Portugal — archive photo 061.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/061/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/061/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20061.jpg</value></Data><Data name="sha256"><value>69384d66f30b909b6ead2a08f9ecd2b24aec74cf8daf6b0b71edeb80dc9354bc</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-tan dog being petted — photo 062</name>
+    <description><![CDATA[<p>A dog with a white and tan coat being gently petted indoors in Ericeira, Portugal — archive photo 062.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/062/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/062/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20062.jpg</value></Data><Data name="sha256"><value>b685551da69306e1b275dda26ce59511abeeab04959593908be0b5ef4fd866b4</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-brown dog portrait — photo 063</name>
+    <description><![CDATA[<p>A dog with a white and brown coat looking toward the camera on Portuguese cobblestones in Ericeira, Portugal — archive photo 063.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/063/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/063/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20063.jpg</value></Data><Data name="sha256"><value>e3193da9c1815767ba024d733315bc798a5f954d3770b3b3f85da4b31fedda8b</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-brown dog sitting — photo 064</name>
+    <description><![CDATA[<p>A dog with a white and brown coat sitting beside a fence in Ericeira, Portugal — archive photo 064.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/064/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/064/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20064.jpg</value></Data><Data name="sha256"><value>d578fcf970dc17386d755ac33c5cfb798d986ae054acabfb33bdb33461061f01</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-brown dog profile — photo 065</name>
+    <description><![CDATA[<p>A dog with a white and brown coat looking to the side beside a fence in Ericeira, Portugal — archive photo 065.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/065/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/065/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20065.jpg</value></Data><Data name="sha256"><value>103f5eac578cbdcb1244ef74471aa7cfd77b3cfc0e7a5c399cfecd17f31cec0b</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog standing — photo 066</name>
+    <description><![CDATA[<p>A dog with a black coat standing in a park in Ericeira, Portugal — archive photo 066.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/066/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/066/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20066.jpg</value></Data><Data name="sha256"><value>a10cc85c33815d4623d8f4149244987022d6730cd48934456ceec920d310c41e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog close-up — photo 067</name>
+    <description><![CDATA[<p>A dog with a black coat shown in a close-up portrait on grass in Ericeira, Portugal — archive photo 067.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/067/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/067/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20067.jpg</value></Data><Data name="sha256"><value>ebe1ea84e15d56ad6233060e32d7d632f5791698f5fe4d723fc0fbc8b6991e27</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog standing — photo 068</name>
+    <description><![CDATA[<p>A dog with a black coat standing beside a road in Ericeira, Portugal — archive photo 068.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/068/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/068/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20068.jpg</value></Data><Data name="sha256"><value>7aa523ff6c2f3aed38a79644b0b9bb1f303cc3f015efe93f2eec9770e1d204f5</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog resting — photo 069</name>
+    <description><![CDATA[<p>A dog with a tan coat resting beside a road in Ericeira, Portugal — archive photo 069.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/069/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/069/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20069.jpg</value></Data><Data name="sha256"><value>4dd48982d6068fe52e3faf5a24dd3d6f40fa3ffc5204ef4c5d43bd6ed3e5337a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog sitting — photo 070</name>
+    <description><![CDATA[<p>A dog with a white coat sitting outdoors in Ericeira, Portugal — archive photo 070.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/070/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/070/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20070.jpg</value></Data><Data name="sha256"><value>dda5f326253a6cfa6ae0c36ca03be20ed85cf3156292f1ea8cab673392d2be14</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog profile — photo 071</name>
+    <description><![CDATA[<p>A dog with a white coat looking to the side outdoors in Ericeira, Portugal — archive photo 071.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/071/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/071/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20071.jpg</value></Data><Data name="sha256"><value>0ceb5db19c63bfbc47bf046bb256dd12c9fb10cf5440effaf6c04fc0df2789b9</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog resting — photo 072</name>
+    <description><![CDATA[<p>A dog with a black and tan coat resting on a bed in Ericeira, Portugal — archive photo 072.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/072/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/072/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20072.jpg</value></Data><Data name="sha256"><value>9dc4144cd1486ea33d3d0840bbb87ad315b1133091f5b5ca938f7967be78d08c</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog lying down — photo 073</name>
+    <description><![CDATA[<p>A dog with a black and tan coat lying down on a bed in Ericeira, Portugal — archive photo 073.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/073/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/073/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20073.jpg</value></Data><Data name="sha256"><value>d31e0e4cd4baa2f272fae9d0ef117625fcfc2120790eb784a857e7b31ecc98d1</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog close-up — photo 074</name>
+    <description><![CDATA[<p>A dog with a black and white coat shown in a close-up portrait outdoors in Ericeira, Portugal — archive photo 074.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/074/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/074/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20074.jpg</value></Data><Data name="sha256"><value>699906818699e6d77dc9aed671b798303e475474345bd56abf8d7720d01462f2</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog sitting — photo 075</name>
+    <description><![CDATA[<p>A dog with a black and white coat sitting outdoors in Ericeira, Portugal — archive photo 075.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/075/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/075/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20075.jpg</value></Data><Data name="sha256"><value>af6f4c8d9e9aa6f3f1679f2ae9a89d726e2723edec85709f43735a3a8dc60967</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog sitting — photo 076</name>
+    <description><![CDATA[<p>A dog with a black and tan coat sitting near the coast in Ericeira, Portugal — archive photo 076.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/076/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/076/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20076.jpg</value></Data><Data name="sha256"><value>4808390465e151f430d6bdfe0c3a1dbb8ab940d20c5408d205b7e6a451a5d9fb</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog profile — photo 077</name>
+    <description><![CDATA[<p>A dog with a black and tan coat looking to the side near the coast in Ericeira, Portugal — archive photo 077.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/077/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/077/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20077.jpg</value></Data><Data name="sha256"><value>8ac7c489ee416e42fd9da4dd839ad662314ad7c72ac1e1c1dbaeb83cba7a6f5d</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dogs together — photo 078</name>
+    <description><![CDATA[<p>Two dogs with a black and white coat together indoors in Ericeira, Portugal — archive photo 078.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/078/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/078/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20078.jpg</value></Data><Data name="sha256"><value>e6f236a8b2be3be5b158c41ffb5ce059d574fe89818125030c2dac4b82448abf</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog sitting — photo 079</name>
+    <description><![CDATA[<p>A dog with a white coat sitting indoors in Ericeira, Portugal — archive photo 079.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/079/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/079/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20079.jpg</value></Data><Data name="sha256"><value>68455684c7f92e5559f073888e5fdd1e863aee1f79af7d3e66d5b3714bb3eb24</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dogs together — photo 080</name>
+    <description><![CDATA[<p>Two dogs with a black and white coat together indoors in Ericeira, Portugal — archive photo 080.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/080/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/080/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20080.jpg</value></Data><Data name="sha256"><value>d325e910a7e330c1e1eda92ed20cdef3f19f415e14d0ea8360cdd67b6e7a0685</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog portrait — photo 081</name>
+    <description><![CDATA[<p>A dog with a cream coat looking toward the camera on pavement in Ericeira, Portugal — archive photo 081.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/081/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/081/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20081.jpg</value></Data><Data name="sha256"><value>53ec0f9026256c9be4257d967b692e52d8be697f4e7feb3055963b4b0d952f92</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog sitting — photo 082</name>
+    <description><![CDATA[<p>A dog with a white coat sitting beside a road in Ericeira, Portugal — archive photo 082.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/082/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/082/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20082.jpg</value></Data><Data name="sha256"><value>6ea5d8bc0cae655007b290d56e24739acdfd575f611f1fe4c789c14f963c3990</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog sitting — photo 083</name>
+    <description><![CDATA[<p>A dog with a white coat sitting on grass in Ericeira, Portugal — archive photo 083.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/083/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/083/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20083.jpg</value></Data><Data name="sha256"><value>9705c510cd7b0db55e7c10a457a0de8bdbac8c85e65c930eae974dab9d149532</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog licking its nose — photo 084</name>
+    <description><![CDATA[<p>A dog with a white coat licking its nose on grass in Ericeira, Portugal — archive photo 084.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/084/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/084/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20084.jpg</value></Data><Data name="sha256"><value>eea01403bd172b715fb880dab7d6b94b0720b9bda075f52dbd7db5b522467db1</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown-and-white dog sitting — photo 085</name>
+    <description><![CDATA[<p>A dog with a brown and white coat sitting beside a road in Ericeira, Portugal — archive photo 085.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/085/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/085/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20085.jpg</value></Data><Data name="sha256"><value>177af6e5041386e46b4d1c0ba70f65e4e30c852e7cd9f5d127feeb058e9d6cf1</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown-and-white dog profile — photo 086</name>
+    <description><![CDATA[<p>A dog with a brown and white coat looking to the side beside a road in Ericeira, Portugal — archive photo 086.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/086/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/086/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20086.jpg</value></Data><Data name="sha256"><value>775332b3a9f634a6cd33290ef25a5715202033ec66f67fe6b195db16b4e15896</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-grey cat sitting — photo 087</name>
+    <description><![CDATA[<p>A cat with a white and grey coat sitting indoors in Ericeira, Portugal — archive photo 087.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/087/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/087/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20087.jpg</value></Data><Data name="sha256"><value>75642429771f54df0a0b2c02077e0f66c286fa3bdae730e845a2586b7f378996</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Orange tabby cat sitting — photo 088</name>
+    <description><![CDATA[<p>A cat with an orange tabby coat sitting indoors in Ericeira, Portugal — archive photo 088.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/088/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/088/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20088.jpg</value></Data><Data name="sha256"><value>01be87bc75e41e6c52ecbdc2dec50dd404c34813899a669dd48fedb7e01ac2b8</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog portrait — photo 089</name>
+    <description><![CDATA[<p>A dog with a cream coat looking toward the camera on a patio in Ericeira, Portugal — archive photo 089.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/089/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/089/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20089.jpg</value></Data><Data name="sha256"><value>6c2dc99f36c3021104b037c7ab23073c1a88f08d909eee561573b12041545a4f</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog resting — photo 090</name>
+    <description><![CDATA[<p>A dog with a cream coat resting on a patio in Ericeira, Portugal — archive photo 090.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/090/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/090/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20090.jpg</value></Data><Data name="sha256"><value>718a313b3814925632ef0c7035bf465513d49528df930d12f6c4fea2d9df2e53</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog close-up — photo 091</name>
+    <description><![CDATA[<p>A dog with a cream coat shown in a close-up portrait on a patio in Ericeira, Portugal — archive photo 091.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/091/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/091/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20091.jpg</value></Data><Data name="sha256"><value>cfe8daa93e529bd5e75f20e6dcea94aff6db9b39a6cbf630598e926cd54adc94</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dogs together — photo 092</name>
+    <description><![CDATA[<p>Two dogs with a black and white coat together on a patio in Ericeira, Portugal — archive photo 092.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/092/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/092/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20092.jpg</value></Data><Data name="sha256"><value>2d750f37f2ae2775428f732663ed618ed37ae294736785fbe7587c14d2e96125</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog portrait — photo 093</name>
+    <description><![CDATA[<p>A dog with a black coat looking toward the camera indoors in Ericeira, Portugal — archive photo 093.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/093/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/093/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20093.jpg</value></Data><Data name="sha256"><value>969896b72546fce1d4fd65eaa5b5c1104eede1e100c6646ecedc897438db6114</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-black dog portrait — photo 094</name>
+    <description><![CDATA[<p>A dog with a white and black coat looking toward the camera indoors in Ericeira, Portugal — archive photo 094.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/094/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/094/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20094.jpg</value></Data><Data name="sha256"><value>54baa3f5cc0052185f60c17fa4acc31f4411ce6ec01dd679bc59bc2f8f62bed6</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog standing — photo 095</name>
+    <description><![CDATA[<p>A dog with a black and tan coat standing beside a street in Ericeira, Portugal — archive photo 095.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/095/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/095/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20095.jpg</value></Data><Data name="sha256"><value>4610ec3ccb04549c28dee129cedb61057d5f20cea12d0370af9cfae84bcf3b49</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog close-up — photo 096</name>
+    <description><![CDATA[<p>A dog with a tan coat shown in a close-up portrait outdoors in Ericeira, Portugal — archive photo 096.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/096/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/096/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20096.jpg</value></Data><Data name="sha256"><value>e360d1b55d5a811fc594ed3b7c79d3989eb2aa743be5a3ff3d6bb4ab798a914a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog sitting — photo 097</name>
+    <description><![CDATA[<p>A dog with a tan coat sitting outdoors in Ericeira, Portugal — archive photo 097.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/097/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/097/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20097.jpg</value></Data><Data name="sha256"><value>1a882db0b7df67775d1629c776810bc186031608b7475b4aa6db18945a4e10f5</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog standing — photo 098</name>
+    <description><![CDATA[<p>A dog with a black coat standing beside turquoise water in Ericeira, Portugal — archive photo 098.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/098/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/098/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20098.jpg</value></Data><Data name="sha256"><value>d28a24279786209acc293d8c21fe1aa1f33e2c01f4713e79b5edca5e8358b8ee</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown dog walking — photo 099</name>
+    <description><![CDATA[<p>A dog with a brown coat walking beside turquoise water in Ericeira, Portugal — archive photo 099.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/099/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/099/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20099.jpg</value></Data><Data name="sha256"><value>a5d5511c199ec09e690f3b2901c3df57e71ffad79f375e1b3130587c7db70c15</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog standing — photo 100</name>
+    <description><![CDATA[<p>A dog with a tan coat standing in tree shade in Ericeira, Portugal — archive photo 100.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/100/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/100/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20100.jpg</value></Data><Data name="sha256"><value>4b9f60a0880a885953250790e4828396468d7b21f463a1aef001217614304121</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mixed-coat dogs sniffing — photo 101</name>
+    <description><![CDATA[<p>Two dogs with contrasting coats sniffing on grass in Ericeira, Portugal — archive photo 101.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/101/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/101/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20101.jpg</value></Data><Data name="sha256"><value>3503dd004644ab9a940741aef340cd72660c906e6b0903c0e96f31c29919deae</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-tan dog profile — photo 102</name>
+    <description><![CDATA[<p>A dog with a white and tan coat looking to the side in a park in Ericeira, Portugal — archive photo 102.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/102/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/102/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20102.jpg</value></Data><Data name="sha256"><value>fba3e4b679b51ad477fc28cdc92153bff4ac6bf867ff7198421fdcf286d4b32c</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog walking — photo 103</name>
+    <description><![CDATA[<p>A dog with a tan coat walking in a park in Ericeira, Portugal — archive photo 103.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/103/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/103/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20103.jpg</value></Data><Data name="sha256"><value>20a8ab2019332a5e63d6c6e07c8727abcab450d0c2fdbf8afbb2a51490636e97</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden dog resting — photo 104</name>
+    <description><![CDATA[<p>A dog with a golden coat resting indoors in Ericeira, Portugal — archive photo 104.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/104/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/104/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20104.jpg</value></Data><Data name="sha256"><value>d4ad52ea9542dfc74245aa4e16bc5bbc5129bba8704f16b75b8139a33db58be9</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown dog portrait — photo 105</name>
+    <description><![CDATA[<p>A dog with a brown coat looking toward the camera on pavement in Ericeira, Portugal — archive photo 105.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/105/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/105/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20105.jpg</value></Data><Data name="sha256"><value>75d80e2b838efc80362f4a9219109686f370a531f5057ba99f02bbdbe62e5abc</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog sitting — photo 106</name>
+    <description><![CDATA[<p>A dog with a black and white coat sitting beside a wall in Ericeira, Portugal — archive photo 106.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/106/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/106/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20106.jpg</value></Data><Data name="sha256"><value>a89423b2f7e15ba5abd1189c736d906929722822e6e8870d765afde16e6559a0</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog sitting — photo 107</name>
+    <description><![CDATA[<p>A dog with a black and white coat sitting on a path in Ericeira, Portugal — archive photo 107.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/107/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/107/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20107.jpg</value></Data><Data name="sha256"><value>bf1d84bc491098b31d104a2f40f226ba2bfd820a1ea1b063daafc639910b6e24</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog lying down — photo 108</name>
+    <description><![CDATA[<p>A dog with a black and white coat lying down outdoors in Ericeira, Portugal — archive photo 108.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/108/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/108/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20108.jpg</value></Data><Data name="sha256"><value>ef3587525e8871a719268d3c02ef25d5677613607fc1e3d5970d3886413979c2</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog winking — photo 109</name>
+    <description><![CDATA[<p>A dog with a cream coat winking toward the camera on grass in Ericeira, Portugal — archive photo 109.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/109/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/109/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20109.jpg</value></Data><Data name="sha256"><value>bc5a9d4a26e1d842ccd3c6b2a1a3dcea0947f81978344c18b09797a3c481aecd</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden dog sitting — photo 110</name>
+    <description><![CDATA[<p>A dog with a golden coat sitting on grass in Ericeira, Portugal — archive photo 110.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/110/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/110/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20110.jpg</value></Data><Data name="sha256"><value>5e00c251bda1f0cab5706547fef43c2c16dda9647974c2e34fb5a24ccb78e332</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden dog portrait — photo 111</name>
+    <description><![CDATA[<p>A dog with a golden coat looking toward the camera on grass in Ericeira, Portugal — archive photo 111.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/111/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/111/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20111.jpg</value></Data><Data name="sha256"><value>2c9d135141047dbfbb1bd720ed7b52c015abf62185aee1a3e58f3acf386510a7</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog close-up — photo 112</name>
+    <description><![CDATA[<p>A dog with a black coat shown in a close-up portrait on grass in Ericeira, Portugal — archive photo 112.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/112/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/112/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20112.jpg</value></Data><Data name="sha256"><value>904075f3985259365c17345ff9b31d853d784e8b2427600fdb4f6387e5df5b80</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog portrait — photo 113</name>
+    <description><![CDATA[<p>A dog with a tan coat looking toward the camera on grass in Ericeira, Portugal — archive photo 113.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/113/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/113/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20113.jpg</value></Data><Data name="sha256"><value>a8da1ab7d56e5ac7838c5511136cd143ebac9fdb5f6bd13641a533b74305e58e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog sitting — photo 114</name>
+    <description><![CDATA[<p>A dog with a tan coat sitting on grass in Ericeira, Portugal — archive photo 114.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/114/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/114/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20114.jpg</value></Data><Data name="sha256"><value>200ba159b9c674d2f0b5240ba4cd89e062e351d21d35337633280b5eea0fb629</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog portrait — photo 115</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat looking toward the camera on grass in Ericeira, Portugal — archive photo 115.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/115/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/115/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20115.jpg</value></Data><Data name="sha256"><value>01f8e2b7953b33599ffb2a7f73a5eca49345f3a472fbe74cdc3cbf2971c48827</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog standing — photo 116</name>
+    <description><![CDATA[<p>A dog with a black coat standing outdoors in Ericeira, Portugal — archive photo 116.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/116/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/116/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20116.jpg</value></Data><Data name="sha256"><value>b6afdcd606c0d693a92311be4344b4879067b7d7445f217e4170411b89a5d819</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog standing — photo 117</name>
+    <description><![CDATA[<p>A dog with a tan coat standing outdoors in Ericeira, Portugal — archive photo 117.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/117/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/117/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20117.jpg</value></Data><Data name="sha256"><value>e5438108a72bfc7eeaaaecd32595439f0a49ef27a320a44d4abce63c2a465155</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White dog portrait — photo 118</name>
+    <description><![CDATA[<p>A dog with a white coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 118.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/118/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/118/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20118.jpg</value></Data><Data name="sha256"><value>a324cd9569f4ca348222281b24de29d5bcadfc58101ba5ad3d91e94be68dd7d7</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan-and-black dog portrait — photo 119</name>
+    <description><![CDATA[<p>A dog with a tan and black coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 119.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/119/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/119/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20119.jpg</value></Data><Data name="sha256"><value>359081115e7726056e6e1578fb6a777862e1f0aae5ef9a15794775e6842dbbba</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog sitting — photo 120</name>
+    <description><![CDATA[<p>A dog with a black coat sitting outdoors in Ericeira, Portugal — archive photo 120.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/120/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/120/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20120.jpg</value></Data><Data name="sha256"><value>4a52f459754452cba497a59979d3c9ba91ba617559b231a367040aa650d6838a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown dog portrait — photo 121</name>
+    <description><![CDATA[<p>A dog with a brown coat looking toward the camera on grass in Ericeira, Portugal — archive photo 121.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/121/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/121/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20121.jpg</value></Data><Data name="sha256"><value>93f07866aba66998b1db1ad41d6f7d00b4557e6e2aff86e5ba37126a2bec1c5d</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-black dog standing — photo 122</name>
+    <description><![CDATA[<p>A dog with a white and black coat standing indoors in Ericeira, Portugal — archive photo 122.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/122/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/122/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20122.jpg</value></Data><Data name="sha256"><value>0d9d400d89e3428594aba42529629049a5d7ccda759ab93498aed561c0d94700</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog resting — photo 123</name>
+    <description><![CDATA[<p>A dog with a black and white coat resting indoors in Ericeira, Portugal — archive photo 123.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/123/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/123/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20123.jpg</value></Data><Data name="sha256"><value>9a730635c4e8249eb6027ee3b882b26ba4feb1bdce46d5ee30e3a6b7e63bc002</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog profile — photo 124</name>
+    <description><![CDATA[<p>A dog with a black and white coat looking to the side indoors in Ericeira, Portugal — archive photo 124.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/124/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/124/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20124.jpg</value></Data><Data name="sha256"><value>2446a4e9be83922fc11822bf2d6a440be048694028cf37486a1cf75c7fb73f2f</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog sitting — photo 125</name>
+    <description><![CDATA[<p>A dog with a black and white coat sitting on a sidewalk in Ericeira, Portugal — archive photo 125.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/125/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/125/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20125.jpg</value></Data><Data name="sha256"><value>e359d17a27348e4800e73951c8b03de247184164bf594b449949556ec53a34da</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog sitting — photo 126</name>
+    <description><![CDATA[<p>A dog with a tan coat sitting indoors in Ericeira, Portugal — archive photo 126.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/126/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/126/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20126.jpg</value></Data><Data name="sha256"><value>c1de2156048e06f2074c3fdf99eea49fdad569b93d974ec46aa23cab2b8a446f</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog portrait — photo 127</name>
+    <description><![CDATA[<p>A dog with a tan coat looking toward the camera indoors in Ericeira, Portugal — archive photo 127.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/127/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/127/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20127.jpg</value></Data><Data name="sha256"><value>b1487a23c2d6dcbfd6454c39f2f0fd20c67410ba0ead56d4de0ea1de725f13fe</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog standing — photo 128</name>
+    <description><![CDATA[<p>A dog with a tan coat standing at a doorway in Ericeira, Portugal — archive photo 128.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/128/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/128/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20128.jpg</value></Data><Data name="sha256"><value>78f697c7a90d6c0e19b90b99835281ba77d3340b32ac94893f9b7fef6d92b1c4</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog portrait — photo 129</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 129.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/129/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/129/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20129.jpg</value></Data><Data name="sha256"><value>ff7808ee1dfd87d8df278001ed65e3b2dd7986a8af14bf0b66cc64bc662117f7</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog close-up — photo 130</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat shown in a close-up portrait outdoors in Ericeira, Portugal — archive photo 130.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/130/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/130/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20130.jpg</value></Data><Data name="sha256"><value>cd2e0a4f90d397bfed466bf19754f0b57507f84c2581420defd841f1454efdb5</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog portrait — photo 131</name>
+    <description><![CDATA[<p>A dog with a black coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 131.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/131/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/131/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20131.jpg</value></Data><Data name="sha256"><value>f2502676d86cbd370bdc771654ee6776b5c01db4b1cb0fff56ca5cc474a722f0</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mixed-coat dogs together — photo 132</name>
+    <description><![CDATA[<p>Two dogs with contrasting coats together on a path in Ericeira, Portugal — archive photo 132.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/132/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/132/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20132.jpg</value></Data><Data name="sha256"><value>7e82c8dd9da2e4670f05da3770d0d386a157bf11a3c707cdeac881ccf2b88103</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Mixed-coat dogs sitting — photo 133</name>
+    <description><![CDATA[<p>Two dogs with contrasting coats sitting on a path in Ericeira, Portugal — archive photo 133.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/133/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/133/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20133.jpg</value></Data><Data name="sha256"><value>453f59ac11aad214302aedbb9c3ed658f24b92b7efabf5359b18dc15381bd424</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog portrait — photo 134</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat looking toward the camera on pavement in Ericeira, Portugal — archive photo 134.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/134/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/134/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20134.jpg</value></Data><Data name="sha256"><value>8fb7bd6c344a2b0cbee39ba757f0d5831d41a3b911b0927609deadc0314d4385</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-tan dog portrait — photo 135</name>
+    <description><![CDATA[<p>A dog with a white and tan coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 135.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/135/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/135/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20135.jpg</value></Data><Data name="sha256"><value>280741377099e952b35e0f4badd808e4b4d0148d35a51b288ed1777bdf06a6f2</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog sitting — photo 136</name>
+    <description><![CDATA[<p>A dog with a black and tan coat sitting on Portuguese cobblestones in Ericeira, Portugal — archive photo 136.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/136/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/136/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20136.jpg</value></Data><Data name="sha256"><value>fd08c08dc2a09fbb02347062dee272eec6c395969ab025adfac59da77ddca9df</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-brown dog sitting — photo 137</name>
+    <description><![CDATA[<p>A dog with a white and brown coat sitting on grass in Ericeira, Portugal — archive photo 137.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/137/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/137/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20137.jpg</value></Data><Data name="sha256"><value>97b96bc23395c1adf303f5705a6b2731f527911291155f926ab9e00a161de935</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog portrait — photo 138</name>
+    <description><![CDATA[<p>A dog with a cream coat looking toward the camera on pavement in Ericeira, Portugal — archive photo 138.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/138/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/138/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20138.jpg</value></Data><Data name="sha256"><value>98959e510f6a1234cab7de55d586bfc9de6cf38ac9952587405413153b81ce2a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog profile — photo 139</name>
+    <description><![CDATA[<p>A dog with a cream coat looking to the side on pavement in Ericeira, Portugal — archive photo 139.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/139/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/139/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20139.jpg</value></Data><Data name="sha256"><value>5c8761265864f28b4f2484c83a889c67fe8a3213d6d1a46cd2c3ea6791cd79f4</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog portrait — photo 140</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 140.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/140/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/140/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20140.jpg</value></Data><Data name="sha256"><value>12924356f51b35cc7b050684e540a858c6c04f4ad3ed1d67b83b6c10e05c16bf</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream dog portrait — photo 141</name>
+    <description><![CDATA[<p>A dog with a cream coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 141.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/141/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/141/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20141.jpg</value></Data><Data name="sha256"><value>faa794901864f3db0d18762160062cfca7d60f854f81c6621667f6585c2e13b9</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Cream cat standing — photo 142</name>
+    <description><![CDATA[<p>A cat with a cream coat standing in a bedroom in Ericeira, Portugal — archive photo 142.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/142/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/142/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20142.jpg</value></Data><Data name="sha256"><value>efe002461804ca28cf41ab31dfe480aac48c7d98d535411a1daf03050fa35551</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Orange tabby cat sitting — photo 143</name>
+    <description><![CDATA[<p>A cat with an orange tabby coat sitting indoors in Ericeira, Portugal — archive photo 143.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/143/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/143/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20143.jpg</value></Data><Data name="sha256"><value>ba50c9dd91208196ff0eb268ca444b99b17a904d84d3e690501506c46a774c97</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Orange-and-cream cats together — photo 144</name>
+    <description><![CDATA[<p>Two cats with orange and cream coats together indoors in Ericeira, Portugal — archive photo 144.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/144/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/144/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20144.jpg</value></Data><Data name="sha256"><value>e256aabd8e88520d3808ec6fd2f2ae5ffb70bfa9497c6019ba123b1b2864e78e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown dog sitting — photo 145</name>
+    <description><![CDATA[<p>A dog with a brown coat sitting on Portuguese cobblestones in Ericeira, Portugal — archive photo 145.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/145/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/145/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20145.jpg</value></Data><Data name="sha256"><value>b43dc31a6633015678a0002b37c835810215734d4f0f78a77b837822771638cb</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-grey dog standing — photo 146</name>
+    <description><![CDATA[<p>A dog with a black and grey coat standing outdoors in Ericeira, Portugal — archive photo 146.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/146/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/146/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20146.jpg</value></Data><Data name="sha256"><value>cd1b627ab9d3aad45ba7b5ff22241c101da0e2a28b5a9108fa57b65fb117f683</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog portrait — photo 147</name>
+    <description><![CDATA[<p>A dog with a black and white coat looking toward the camera indoors in Ericeira, Portugal — archive photo 147.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/147/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/147/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20147.jpg</value></Data><Data name="sha256"><value>63a88cb74c14753e247105efc1e804ec20e910bfeba8504c24ba46b1acc788e9</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white dog close-up — photo 148</name>
+    <description><![CDATA[<p>A dog with a black and white coat shown in a close-up portrait indoors in Ericeira, Portugal — archive photo 148.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/148/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/148/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20148.jpg</value></Data><Data name="sha256"><value>fb193fad79105fc989837b0dd512737da71e6d7caf4ef821f7a0b602900877d6</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog sitting — photo 149</name>
+    <description><![CDATA[<p>A dog with a tan coat sitting on a rug in Ericeira, Portugal — archive photo 149.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/149/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/149/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20149.jpg</value></Data><Data name="sha256"><value>a27c7e15215e5d6ef2fdb746ec57ea1ecb000d493094b3b23ca037d7750ab949</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog resting — photo 150</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat resting indoors in Ericeira, Portugal — archive photo 150.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/150/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/150/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20150.jpg</value></Data><Data name="sha256"><value>e5946d9079ee7006d1c92244496fd4a42ce827b52e93906a997b0d4e28820adb</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Chocolate-brown dog lying down — photo 151</name>
+    <description><![CDATA[<p>A dog with a chocolate-brown coat lying down indoors in Ericeira, Portugal — archive photo 151.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/151/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/151/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20151.jpg</value></Data><Data name="sha256"><value>8c8cdc2cc097f507b0b0d7b11d83cbd201dd864b448ccb1b64ad19772003136e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog sitting — photo 152</name>
+    <description><![CDATA[<p>A dog with a tan coat sitting on Portuguese cobblestones in Ericeira, Portugal — archive photo 152.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/152/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/152/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20152.jpg</value></Data><Data name="sha256"><value>522c38e34317f1febcfa5690bcd8d9ad43ca0411e49027660c9e8fddf2740ff0</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan dog portrait — photo 153</name>
+    <description><![CDATA[<p>A dog with a tan coat looking toward the camera on Portuguese cobblestones in Ericeira, Portugal — archive photo 153.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/153/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/153/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20153.jpg</value></Data><Data name="sha256"><value>73a4233d73b86ecb9b1d9459e2fa95000fde8b3455c12bec7d70830270d4c549</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog close-up — photo 154</name>
+    <description><![CDATA[<p>A dog with a black and tan coat shown in a close-up portrait outdoors in Ericeira, Portugal — archive photo 154.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/154/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/154/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20154.jpg</value></Data><Data name="sha256"><value>cfedca95c37cb45ad05c55785c955ef3bb774e4cfaa697fc788bfcee5aecfa6c</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-tan dog standing — photo 155</name>
+    <description><![CDATA[<p>A dog with a black and tan coat standing outdoors in Ericeira, Portugal — archive photo 155.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/155/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/155/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20155.jpg</value></Data><Data name="sha256"><value>a63fd21c34388e3e42184d68288b1d39c77fe75f8aa081bf58eb2cf397a0707a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tabby cat resting — photo 156</name>
+    <description><![CDATA[<p>A cat with a tabby coat resting on a sofa in Ericeira, Portugal — archive photo 156.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/156/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/156/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20156.jpg</value></Data><Data name="sha256"><value>5f86f6f459f66b04048ab08717f2c6e23c1c192f5131910cfdccf5a188b39267</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden dog portrait — photo 157</name>
+    <description><![CDATA[<p>A dog with a golden coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 157.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/157/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/157/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20157.jpg</value></Data><Data name="sha256"><value>b1378c7051629604c401a8ac5a2473d8ab099bb39f5666b2ba9531a0ee323189</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden-and-white dog portrait — photo 158</name>
+    <description><![CDATA[<p>A dog with a golden and white coat looking toward the camera indoors in Ericeira, Portugal — archive photo 158.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/158/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/158/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20158.jpg</value></Data><Data name="sha256"><value>ae641ad6c3f2f8d0478429521abd3b6541506ed9d5b133960ecd40a5feee9e01</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tabby cat resting — photo 159</name>
+    <description><![CDATA[<p>A cat with a tabby coat resting indoors in Ericeira, Portugal — archive photo 159.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/159/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/159/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20159.jpg</value></Data><Data name="sha256"><value>57e26f2aab1d6aa5741cd555451372b2e737c2316ca2966a8da7714d172a46a4</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tan-and-black dog portrait — photo 160</name>
+    <description><![CDATA[<p>A dog with a tan and black coat looking toward the camera on Portuguese cobblestones in Ericeira, Portugal — archive photo 160.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/160/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/160/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20160.jpg</value></Data><Data name="sha256"><value>f604914beb9d55be01d6f150cff17e4d97dc989cce49e01b66746f5a984f095a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Tabby-and-white cat portrait — photo 161</name>
+    <description><![CDATA[<p>A cat with a tabby and white coat looking toward the camera indoors in Ericeira, Portugal — archive photo 161.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/161/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/161/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20161.jpg</value></Data><Data name="sha256"><value>d4bb98750328da35b6087838da4c0e02d31784351d54568b2f7ccf5642d6dc4e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grey-and-white dog standing — photo 162</name>
+    <description><![CDATA[<p>A dog with a grey and white coat standing on pavement in Ericeira, Portugal — archive photo 162.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/162/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/162/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20162.jpg</value></Data><Data name="sha256"><value>da9fc421dab87e58ea6ba61575696b05962b94146312a2633cd743bcd0b07e93</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Grey-and-tan dog standing — photo 163</name>
+    <description><![CDATA[<p>A dog with a grey and tan coat standing on grass in Ericeira, Portugal — archive photo 163.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/163/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/163/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20163.jpg</value></Data><Data name="sha256"><value>28dfe6d8873204854b8cb9394b2ee2c0e73e34f8dc712c9e4be92084a786c3b5</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown dog sitting — photo 164</name>
+    <description><![CDATA[<p>A dog with a brown coat sitting indoors in Ericeira, Portugal — archive photo 164.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/164/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/164/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20164.jpg</value></Data><Data name="sha256"><value>17ac71c07cd7d2d2919c3cca917325b608b6f1e5c37b371531073cf175070670</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown dog portrait — photo 165</name>
+    <description><![CDATA[<p>A dog with a brown coat looking toward the camera on brick paving in Ericeira, Portugal — archive photo 165.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/165/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/165/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20165.jpg</value></Data><Data name="sha256"><value>43991ecda7f0f401f5014f48d0182ddf8c9b43eea1cf8a24a95c840fe65299c6</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-grey dog portrait — photo 166</name>
+    <description><![CDATA[<p>A dog with a white and grey coat looking toward the camera indoors in Ericeira, Portugal — archive photo 166.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/166/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/166/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20166.jpg</value></Data><Data name="sha256"><value>752c7a04637353e5c6e8fb4a7e319f841b18998c969e984cb8da7487b8d4cab0</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog portrait — photo 167</name>
+    <description><![CDATA[<p>A dog with a black coat looking toward the camera on grass in Ericeira, Portugal — archive photo 167.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/167/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/167/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20167.jpg</value></Data><Data name="sha256"><value>5bb0c9c112715741075656df51d9a2c5dcc7086e48ac1401519498595f648248</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden dog resting — photo 168</name>
+    <description><![CDATA[<p>A dog with a golden coat resting indoors in Ericeira, Portugal — archive photo 168.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/168/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/168/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20168.jpg</value></Data><Data name="sha256"><value>dd57a8e911bb417ce8393b0363cd1ed17c100ec6998e13d884074a0499cc3f6c</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Golden dog resting — photo 169</name>
+    <description><![CDATA[<p>A dog with a golden coat resting indoors in Ericeira, Portugal — archive photo 169.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/169/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/169/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20169.jpg</value></Data><Data name="sha256"><value>9039853a261222c346c65ba69e3bd106fd24a5c1d0e4521875210d54a9a61d3e</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black-and-white cat resting — photo 170</name>
+    <description><![CDATA[<p>A cat with a black and white coat resting on a bed in Ericeira, Portugal — archive photo 170.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/170/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/170/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20170.jpg</value></Data><Data name="sha256"><value>b98a98efc9555b068435ac8eb3efad26813fda0e1fd050f514da86c192d10822</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>White-and-grey mouse standing — photo 171</name>
+    <description><![CDATA[<p>A small mouse with a white and grey coat standing in a cared-for habitat in Ericeira, Portugal — archive photo 171.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/171/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/171/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20171.jpg</value></Data><Data name="sha256"><value>793adf06e7ffa553444cb69b52b021ff0e78eb90d13794b4e26e4ca6da65ac5a</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Black dog portrait — photo 172</name>
+    <description><![CDATA[<p>A dog with a black coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 172.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/172/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/172/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20172.jpg</value></Data><Data name="sha256"><value>34e45288be0347ee8fa518530dcbedad9ff98fffeda35d70c1abf5cb6b8f265b</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+    <name>Brown dog portrait — photo 173</name>
+    <description><![CDATA[<p>A dog with a brown coat looking toward the camera outdoors in Ericeira, Portugal — archive photo 173.</p><p><a href="https://tails-and-trails.github.io/ericeira-dog-photos/173/">Canonical archive record</a></p><p>Approximate locality only; not an exact capture location.</p>]]></description>
+    <styleUrl>#archive</styleUrl>
+    <ExtendedData><Data name="record_url"><value>https://tails-and-trails.github.io/ericeira-dog-photos/173/</value></Data><Data name="commons_url"><value>https://commons.wikimedia.org/wiki/File:Domestic%20dog%20in%20Ericeira%2C%20Portugal%20173.jpg</value></Data><Data name="sha256"><value>a03cdef70bb44e0bb6d4f6c671bbb7f90d03d046981a8aad3b22adb73b3e13bb</value></Data><Data name="coordinate_scope"><value>approximate Ericeira locality coordinate; not exact capture location</value></Data><Data name="exact_capture_location"><value>false</value></Data></ExtendedData>
+    <Point><coordinates>-9.41563,38.96275,0</coordinates></Point>
+  </Placemark>
+</Document>
+</kml>
