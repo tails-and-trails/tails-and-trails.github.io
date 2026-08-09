@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { AuthButton } from "@coinbase/cdp-react/components/AuthButton";
-import { useCurrentUser, useIsSignedIn, useSignEvmTransaction } from "@coinbase/cdp-hooks";
+import { useCurrentUser, useIsSignedIn, useSignEvmHash } from "@coinbase/cdp-hooks";
 import {
   createPublicClient,
   defineChain,
@@ -9,6 +9,10 @@ import {
   formatEther,
   getAddress,
   http,
+  keccak256,
+  parseSignature,
+  recoverAddress,
+  serializeTransaction,
   type Address,
   type Hex,
 } from "viem";
@@ -93,7 +97,7 @@ export default function App() {
   const [isPending, setIsPending] = useState(false);
   const { isSignedIn } = useIsSignedIn();
   const { currentUser } = useCurrentUser();
-  const { signEvmTransaction } = useSignEvmTransaction();
+  const { signEvmHash } = useSignEvmHash();
 
   useEffect(() => {
     Promise.all([
@@ -149,20 +153,25 @@ export default function App() {
       publicClient.getGasPrice(),
     ]);
     const gas = estimatedGas + estimatedGas / 5n;
-    const { signedTransaction } = await signEvmTransaction({
-      evmAccount: account,
-      transaction: {
-        chainId: calypso.id,
-        type: "eip1559",
-        nonce,
-        gas,
-        maxFeePerGas: gasPrice,
-        maxPriorityFeePerGas: 0n,
-        to,
-        data,
-        value: 0n,
-      },
-    });
+    const transaction = {
+      chainId: calypso.id,
+      type: "eip1559" as const,
+      nonce,
+      gas,
+      maxFeePerGas: gasPrice,
+      maxPriorityFeePerGas: 0n,
+      ...(to ? { to } : {}),
+      data,
+      value: 0n,
+    };
+    const unsignedTransaction = serializeTransaction(transaction);
+    const transactionDigest = keccak256(unsignedTransaction);
+    const { signature } = await signEvmHash({ evmAccount: account, hash: transactionDigest });
+    const recoveredAddress = await recoverAddress({ hash: transactionDigest, signature });
+    if (getAddress(recoveredAddress) !== account) {
+      throw new Error("The signed transaction did not match the care-controlled wallet.");
+    }
+    const signedTransaction = serializeTransaction(transaction, parseSignature(signature));
     const hash = await publicClient.sendRawTransaction({ serializedTransaction: signedTransaction });
     const receipt = await publicClient.waitForTransactionReceipt({ hash });
     if (receipt.status !== "success") throw new Error("The SKALE transaction reverted.");
