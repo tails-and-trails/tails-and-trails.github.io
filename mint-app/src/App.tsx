@@ -1,8 +1,17 @@
 import { useEffect, useMemo, useState } from "react";
 import { AuthButton } from "@coinbase/cdp-react/components/AuthButton";
-import { useCurrentUser, useIsSignedIn, useSendUserOperation } from "@coinbase/cdp-hooks";
-import { createPublicClient, encodeDeployData, encodeFunctionData, getAddress, http } from "viem";
-import { base } from "viem/chains";
+import { useCurrentUser, useIsSignedIn, useSignEvmTransaction } from "@coinbase/cdp-hooks";
+import {
+  createPublicClient,
+  defineChain,
+  encodeDeployData,
+  encodeFunctionData,
+  formatEther,
+  getAddress,
+  http,
+  type Address,
+  type Hex,
+} from "viem";
 import type { MintConfig } from "./config";
 import { archiveCreationBytecode } from "./generatedContract";
 
@@ -43,14 +52,6 @@ const constructorAbi = [{
   ],
 }] as const;
 
-const createXAbi = [{
-  type: "function",
-  name: "deployCreate",
-  stateMutability: "payable",
-  inputs: [{ name: "initCode", type: "bytes" }],
-  outputs: [{ name: "newContract", type: "address" }],
-}] as const;
-
 const ownerMintBatchAbi = [{
   type: "function",
   name: "ownerMintBatch",
@@ -63,9 +64,18 @@ const ownerMintBatchAbi = [{
   outputs: [],
 }] as const;
 
-const CREATE_X = getAddress("0xba5Ed099633D3B313e4D5F7bdc1305d3c28ba5Ed");
-const CONTRACT_CREATION_TOPIC = "0x4db17dd5e4732fb6da34a148104a592783ca119a1e7bb8829eba6cbadef0b511";
-const publicClient = createPublicClient({ chain: base, transport: http() });
+const CARE_EMAIL = "care@tailsandtrails.pt";
+const CALYPSO_RPC = "https://mainnet.skalenodes.com/v1/calypso";
+const CALYPSO_EXPLORER = "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com";
+const SFUEL_STATION = "https://sfuelstation.com";
+const calypso = defineChain({
+  id: 1564830818,
+  name: "SKALE Calypso Hub",
+  nativeCurrency: { name: "SKALE Fuel", symbol: "sFUEL", decimals: 18 },
+  rpcUrls: { default: { http: [CALYPSO_RPC] } },
+  blockExplorers: { default: { name: "SKALE Explorer", url: CALYPSO_EXPLORER } },
+});
+const publicClient = createPublicClient({ chain: calypso, transport: http(CALYPSO_RPC) });
 
 const shortAddress = (value: string) => `${value.slice(0, 6)}…${value.slice(-4)}`;
 
@@ -77,13 +87,13 @@ export default function App() {
   const [message, setMessage] = useState<string | null>(null);
   const [transactionHash, setTransactionHash] = useState<string | null>(null);
   const [operation, setOperation] = useState<"claim" | "deploy" | "ownerMint" | null>(null);
-  const [operationToken, setOperationToken] = useState<string | null>(null);
   const [deployedContract, setDeployedContract] = useState<string | null>(null);
   const [adminContract, setAdminContract] = useState("");
-  const [paymasterUrl, setPaymasterUrl] = useState("");
+  const [sFuelBalance, setSFuelBalance] = useState<bigint | null>(null);
+  const [isPending, setIsPending] = useState(false);
   const { isSignedIn } = useIsSignedIn();
   const { currentUser } = useCurrentUser();
-  const { sendUserOperation, status, data: userOperation } = useSendUserOperation();
+  const { signEvmTransaction } = useSignEvmTransaction();
 
   useEffect(() => {
     Promise.all([
@@ -96,29 +106,6 @@ export default function App() {
       })
       .catch(() => setMessage("The archive configuration could not be loaded. Please try again."));
   }, []);
-
-  useEffect(() => {
-    if (status === "success" && userOperation?.transactionHash) {
-      setTransactionHash(userOperation.transactionHash);
-      if (operation === "claim") {
-        setMessage(`Archive token ${operationToken} was confirmed on Base.`);
-      } else if (operation === "ownerMint") {
-        setMessage(`Owner reserve batch ${operationToken} was confirmed on Base.`);
-      } else if (operation === "deploy") {
-        publicClient.getTransactionReceipt({ hash: userOperation.transactionHash as `0x${string}` }).then((receipt) => {
-          const creation = receipt.logs.find((log) =>
-            log.address.toLowerCase() === CREATE_X.toLowerCase() && log.topics[0] === CONTRACT_CREATION_TOPIC,
-          );
-          const addressTopic = creation?.topics[1];
-          if (!addressTopic) throw new Error("The CreateX deployment event was not found.");
-          const address = getAddress(`0x${addressTopic.slice(-40)}`);
-          setDeployedContract(address);
-          setAdminContract(address);
-          setMessage(`Archive contract deployed at ${address}.`);
-        }).catch((error) => setMessage(error instanceof Error ? error.message : "Could not read the deployment receipt."));
-      }
-    }
-  }, [operation, operationToken, status, userOperation]);
 
   const images = useMemo(() => {
     const all = catalogue?.images ?? [];
@@ -133,103 +120,135 @@ export default function App() {
   }, [catalogue, query]);
 
   const active = catalogue?.images.find((image) => image.sequence === selected) ?? catalogue?.images[0];
-  const smartAccount = currentUser?.evmSmartAccounts?.[0];
+  const evmAccount = currentUser?.evmAccounts?.[0];
+  const signedInEmail = currentUser?.authenticationMethods.email?.email?.toLowerCase() ?? null;
+  const isCareOwner = signedInEmail === CARE_EMAIL;
   const mintReady = Boolean(config?.mintingEnabled && config.contractAddress);
-  const isPending = status === "pending";
   const setupMode = new URLSearchParams(window.location.search).get("setup") === "archive";
 
+  useEffect(() => {
+    if (!evmAccount) {
+      setSFuelBalance(null);
+      return;
+    }
+    publicClient.getBalance({ address: getAddress(evmAccount) })
+      .then(setSFuelBalance)
+      .catch(() => setSFuelBalance(null));
+  }, [evmAccount, transactionHash]);
+
+  async function sendCalypsoTransaction({ to, data }: { to?: Address; data: Hex }) {
+    if (!evmAccount) throw new Error("Sign in with the wallet controlled by your Tails & Trails account.");
+    const account = getAddress(evmAccount);
+    const balance = await publicClient.getBalance({ address: account });
+    if (balance === 0n) {
+      throw new Error("This wallet needs free sFUEL before it can submit a zero-cost transaction. Use the sFUEL Station link, then refresh the balance.");
+    }
+    const [nonce, estimatedGas, gasPrice] = await Promise.all([
+      publicClient.getTransactionCount({ address: account, blockTag: "pending" }),
+      publicClient.estimateGas({ account, to, data, value: 0n }),
+      publicClient.getGasPrice(),
+    ]);
+    const gas = estimatedGas + estimatedGas / 5n;
+    const { signedTransaction } = await signEvmTransaction({
+      evmAccount: account,
+      transaction: {
+        chainId: calypso.id,
+        type: "eip1559",
+        nonce,
+        gas,
+        maxFeePerGas: gasPrice,
+        maxPriorityFeePerGas: 0n,
+        to,
+        data,
+        value: 0n,
+      },
+    });
+    const hash = await publicClient.sendRawTransaction({ serializedTransaction: signedTransaction });
+    const receipt = await publicClient.waitForTransactionReceipt({ hash });
+    if (receipt.status !== "success") throw new Error("The SKALE transaction reverted.");
+    setTransactionHash(hash);
+    return receipt;
+  }
+
   async function claimSelected() {
-    if (!active || !config?.contractAddress || !smartAccount || !mintReady) return;
+    if (!active || !config?.contractAddress || !evmAccount || !mintReady) return;
     setMessage(null);
     setTransactionHash(null);
+    setIsPending(true);
 
     try {
       setOperation("claim");
-      setOperationToken(active.number);
-      const result = await sendUserOperation({
-        evmSmartAccount: smartAccount,
-        network: "base",
-        calls: [
-          {
-            to: getAddress(config.contractAddress),
-            value: 0n,
-            data: encodeFunctionData({
-              abi: claimAbi,
-              functionName: "claim",
-              args: [BigInt(active.sequence)],
-            }),
-          },
-        ],
-        useCdpPaymaster: true,
+      await sendCalypsoTransaction({
+        to: getAddress(config.contractAddress),
+        data: encodeFunctionData({
+          abi: claimAbi,
+          functionName: "claim",
+          args: [BigInt(active.sequence)],
+        }),
       });
-      setMessage(`Archive token ${active.number} was submitted. User operation ${shortAddress(result.userOperationHash)} is being confirmed.`);
+      setMessage(`Archive token ${active.number} was confirmed on SKALE Calypso.`);
     } catch (error) {
       const detail = error instanceof Error ? error.message : "The claim could not be completed.";
       setMessage(detail.includes("AlreadyClaimed") ? "This wallet has already claimed its archive token." : detail);
+    } finally {
+      setIsPending(false);
     }
   }
 
   async function deployArchiveContract() {
-    if (!smartAccount || !paymasterUrl.trim()) return;
+    if (!evmAccount || !isCareOwner) return;
     setMessage(null);
     setTransactionHash(null);
     setDeployedContract(null);
     setOperation("deploy");
-    setOperationToken(null);
+    setIsPending(true);
 
     try {
       const initCode = encodeDeployData({
         abi: constructorAbi,
         bytecode: archiveCreationBytecode,
         args: [
-          getAddress(smartAccount),
+          getAddress(evmAccount),
           "https://tails-and-trails.github.io/nft/metadata/{id}.json",
           "https://tails-and-trails.github.io/nft/metadata/collection.json",
         ],
       });
-      const result = await sendUserOperation({
-        evmSmartAccount: smartAccount,
-        network: "base",
-        calls: [{
-          to: CREATE_X,
-          value: 0n,
-          data: encodeFunctionData({ abi: createXAbi, functionName: "deployCreate", args: [initCode] }),
-        }],
-        paymasterUrl: paymasterUrl.trim(),
-      });
-      setMessage(`Contract deployment submitted. User operation ${shortAddress(result.userOperationHash)} is being confirmed.`);
+      const receipt = await sendCalypsoTransaction({ data: initCode });
+      if (!receipt.contractAddress) throw new Error("The deployment receipt did not contain a contract address.");
+      const contractAddress = getAddress(receipt.contractAddress);
+      setDeployedContract(contractAddress);
+      setAdminContract(contractAddress);
+      setMessage(`Archive contract deployed at ${contractAddress}.`);
     } catch (error) {
       setMessage(error instanceof Error ? error.message : "The archive contract could not be deployed.");
+    } finally {
+      setIsPending(false);
     }
   }
 
   async function mintOwnerBatch(start: number, end: number) {
-    if (!smartAccount || !paymasterUrl.trim() || !adminContract) return;
+    if (!evmAccount || !isCareOwner || !adminContract) return;
     setMessage(null);
     setTransactionHash(null);
     setOperation("ownerMint");
-    setOperationToken(`${start}–${end}`);
+    setIsPending(true);
 
     try {
       const tokenIds = Array.from({ length: end - start + 1 }, (_, index) => BigInt(start + index));
       const amounts = tokenIds.map(() => 1n);
-      const result = await sendUserOperation({
-        evmSmartAccount: smartAccount,
-        network: "base",
-        calls: [{
-          to: getAddress(adminContract),
-          value: 0n,
-          data: encodeFunctionData({
-            abi: ownerMintBatchAbi,
-            functionName: "ownerMintBatch",
-            args: [getAddress(smartAccount), tokenIds, amounts],
-          }),
-        }],
-        paymasterUrl: paymasterUrl.trim(),
+      await sendCalypsoTransaction({
+        to: getAddress(adminContract),
+        data: encodeFunctionData({
+          abi: ownerMintBatchAbi,
+          functionName: "ownerMintBatch",
+          args: [getAddress(evmAccount), tokenIds, amounts],
+        }),
       });
-      setMessage(`Owner reserve batch ${start}–${end} submitted as ${shortAddress(result.userOperationHash)}.`);
+      setMessage(`Owner reserve batch ${start}–${end} was confirmed on SKALE Calypso.`);
     } catch (error) {
       setMessage(error instanceof Error ? error.message : `Owner reserve batch ${start}–${end} failed.`);
+    } finally {
+      setIsPending(false);
     }
   }
 
@@ -249,10 +268,10 @@ export default function App() {
 
       <main>
         <section className="hero">
-          <p className="eyebrow">Base · ERC-1155 · gas sponsored</p>
+          <p className="eyebrow">SKALE Calypso · ERC-1155 · zero gas cost</p>
           <h1>Keep one archive photograph in your wallet.</h1>
           <p className="lede">
-            Choose from 173 companion-animal photographs made in Ericeira. The token costs nothing and the archive sponsors the Base network fee.
+            Choose from 173 companion-animal photographs made in Ericeira. The token and SKALE Calypso network transaction both cost nothing.
           </p>
           <div className="facts" aria-label="Collection facts">
             <span><strong>173</strong> records</span>
@@ -311,8 +330,12 @@ export default function App() {
             <div className="wallet-step">
               <p className="step">02 / Wallet</p>
               <AuthButton />
-              {isSignedIn && smartAccount && (
-                <p className="wallet-address">Smart wallet: <a href={`https://basescan.org/address/${smartAccount}`}>{shortAddress(smartAccount)}</a></p>
+              {isSignedIn && evmAccount && (
+                <>
+                  <p className="wallet-address">Wallet: <a href={`${CALYPSO_EXPLORER}/address/${evmAccount}`}>{shortAddress(evmAccount)}</a></p>
+                  <p className="wallet-address">sFUEL: {sFuelBalance === null ? "checking…" : Number(formatEther(sFuelBalance)).toFixed(4)}</p>
+                  {sFuelBalance === 0n && <p className="wallet-address"><a href={SFUEL_STATION} target="_blank" rel="noreferrer">Get free sFUEL</a>, then reload this page.</p>}
+                </>
               )}
             </div>
 
@@ -321,14 +344,14 @@ export default function App() {
               <button
                 className="claim-button"
                 type="button"
-                disabled={!isSignedIn || !smartAccount || !mintReady || isPending}
+                disabled={!isSignedIn || !evmAccount || !mintReady || isPending || sFuelBalance === 0n}
                 onClick={claimSelected}
               >
-                {isPending ? "Confirming on Base…" : mintReady ? `Claim archive ${active?.number ?? ""} — free` : "Mint opening after deployment"}
+                {isPending ? "Confirming on SKALE…" : mintReady ? `Claim archive ${active?.number ?? ""} — free` : "Mint opening after deployment"}
               </button>
-              <p className="gas-note">No payment requested. Network gas is sponsored by Tails &amp; Trails through CDP Paymaster.</p>
+              <p className="gas-note">No payment or card requested. SKALE uses free, non-tradeable sFUEL for network gas.</p>
               {message && <p className="status-message" role="status">{message}</p>}
-              {transactionHash && <a className="transaction" href={`https://basescan.org/tx/${transactionHash}`}>View transaction on BaseScan</a>}
+              {transactionHash && <a className="transaction" href={`${CALYPSO_EXPLORER}/tx/${transactionHash}`}>View transaction on SKALE Explorer</a>}
             </div>
           </aside>
         </section>
@@ -355,19 +378,21 @@ export default function App() {
           <section className="setup-panel" aria-label="One-time archive deployment">
             <p className="eyebrow">Temporary organization setup</p>
             <h2>Deploy the tested archive contract</h2>
-            <p>This one-time control deploys the exact tested ERC-1155 bytecode through the verified CreateX factory. The signed-in smart wallet becomes the owner; no private key is exported.</p>
+            <p>This one-time control deploys the tested ERC-1155 bytecode directly to SKALE Calypso. It is restricted to the care@tailsandtrails.pt login. The care-controlled EOA becomes the owner; no private key is exported.</p>
             <AuthButton />
-            {smartAccount && <p className="wallet-address">Contract owner: {smartAccount}</p>}
-            <label>Private Paymaster endpoint <input type="password" autoComplete="off" value={paymasterUrl} onChange={(event) => setPaymasterUrl(event.target.value)} /></label>
-            <button className="claim-button" disabled={!smartAccount || !paymasterUrl.trim() || isPending || Boolean(deployedContract)} onClick={deployArchiveContract}>
-              {isPending && operation === "deploy" ? "Deploying on Base…" : deployedContract ? "Contract deployed" : "Deploy archive contract with sponsored gas"}
+            {signedInEmail && <p className="wallet-address">Signed in as: {signedInEmail}</p>}
+            {evmAccount && <p className="wallet-address">Contract owner: {evmAccount}</p>}
+            {!isCareOwner && isSignedIn && <p className="status-message">Sign out and use care@tailsandtrails.pt. Personal accounts cannot deploy this collection.</p>}
+            {isCareOwner && sFuelBalance === 0n && <p className="status-message">Get free sFUEL for the owner wallet at <a href={SFUEL_STATION} target="_blank" rel="noreferrer">sFUEL Station</a>, then reload.</p>}
+            <button className="claim-button" disabled={!evmAccount || !isCareOwner || sFuelBalance === 0n || isPending || Boolean(deployedContract)} onClick={deployArchiveContract}>
+              {isPending && operation === "deploy" ? "Deploying on SKALE…" : deployedContract ? "Contract deployed" : "Deploy archive contract — free"}
             </button>
             {message && <p className="status-message" role="status">{message}</p>}
-            {deployedContract && <a className="transaction" href={`https://basescan.org/address/${deployedContract}`}>Open deployed contract on BaseScan</a>}
+            {deployedContract && <a className="transaction" href={`${CALYPSO_EXPLORER}/address/${deployedContract}`}>Open deployed contract on SKALE Explorer</a>}
             <label>Deployed contract <input value={adminContract} onChange={(event) => setAdminContract(event.target.value)} /></label>
             <div>
               {[[1, 50], [51, 100], [101, 150], [151, 173]].map(([start, end]) => (
-                <button key={start} disabled={!smartAccount || !paymasterUrl.trim() || !adminContract || isPending} onClick={() => mintOwnerBatch(start, end)}>
+                <button key={start} disabled={!evmAccount || !isCareOwner || sFuelBalance === 0n || !adminContract || isPending} onClick={() => mintOwnerBatch(start, end)}>
                   Mint owner reserve {start}–{end}
                 </button>
               ))}

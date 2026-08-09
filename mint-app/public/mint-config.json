@@ -1,7 +1,7 @@
 {
   "projectId": "ed543649-466d-4cdc-a735-5d01311bf133",
-  "network": "base",
-  "chainId": 8453,
+  "network": "skale-calypso",
+  "chainId": 1564830818,
   "contractAddress": null,
   "metadataCid": null,
   "mintingEnabled": false,

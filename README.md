@@ -24,4 +24,4 @@ Generated discovery files include `catalog.json`, `sitemap.xml`, `image-sitemap.
 
 ## Archive token collection
 
-The public collection interface is at <https://tails-and-trails.github.io/mint/>. The tested Base ERC-1155 implementation is published at <https://github.com/tails-and-trails/tails-and-trails.github.io/blob/main/nft/src/TailsAndTrailsArchive.sol>. Once deployed, the canonical Base contract address is added to the mint configuration, collection page, structured data and crawler-facing indexes.
+The public collection interface is at <https://tails-and-trails.github.io/mint/>. The tested SKALE Calypso ERC-1155 implementation is published at <https://github.com/tails-and-trails/tails-and-trails.github.io/blob/main/nft/src/TailsAndTrailsArchive.sol>. Once deployed, the canonical contract address is added to the mint configuration, collection page, structured data and crawler-facing indexes.
