@@ -140,19 +140,18 @@ export default function App() {
       .catch(() => setSFuelBalance(null));
   }, [evmAccount, transactionHash]);
 
-  async function sendCalypsoTransaction({ to, data }: { to?: Address; data: Hex }) {
+  async function sendCalypsoTransaction({ to, data, gas }: { to?: Address; data: Hex; gas: bigint }) {
     if (!evmAccount) throw new Error("Sign in with the wallet controlled by your Tails & Trails account.");
     const account = getAddress(evmAccount);
     const balance = await publicClient.getBalance({ address: account });
     if (balance === 0n) {
       throw new Error("This wallet needs free sFUEL before it can submit a zero-cost transaction. Use the sFUEL Station link, then refresh the balance.");
     }
-    const [nonce, estimatedGas, gasPrice] = await Promise.all([
+    await publicClient.call({ account, to, data, value: 0n, gas });
+    const [nonce, gasPrice] = await Promise.all([
       publicClient.getTransactionCount({ address: account, blockTag: "pending" }),
-      publicClient.estimateGas({ account, to, data, value: 0n }),
       publicClient.getGasPrice(),
     ]);
-    const gas = estimatedGas + estimatedGas / 5n;
     const transaction = {
       chainId: calypso.id,
       type: "eip1559" as const,
@@ -189,6 +188,7 @@ export default function App() {
       setOperation("claim");
       await sendCalypsoTransaction({
         to: getAddress(config.contractAddress),
+        gas: 500_000n,
         data: encodeFunctionData({
           abi: claimAbi,
           functionName: "claim",
@@ -222,7 +222,7 @@ export default function App() {
           "https://tails-and-trails.github.io/nft/metadata/collection.json",
         ],
       });
-      const receipt = await sendCalypsoTransaction({ data: initCode });
+      const receipt = await sendCalypsoTransaction({ data: initCode, gas: 5_000_000n });
       if (!receipt.contractAddress) throw new Error("The deployment receipt did not contain a contract address.");
       const contractAddress = getAddress(receipt.contractAddress);
       setDeployedContract(contractAddress);
@@ -247,6 +247,7 @@ export default function App() {
       const amounts = tokenIds.map(() => 1n);
       await sendCalypsoTransaction({
         to: getAddress(adminContract),
+        gas: 5_000_000n,
         data: encodeFunctionData({
           abi: ownerMintBatchAbi,
           functionName: "ownerMintBatch",
