@@ -73,7 +73,14 @@ const CALYPSO_RPC = "https://mainnet.skalenodes.com/v1/calypso";
 const CALYPSO_EXPLORER = "https://honorable-steel-rasalhague.explorer.mainnet.skalenodes.com";
 const SFUEL_STATION = "https://sfuelstation.com";
 const SKALE_ACCESS_CONTROL_DOCS = "https://docs.skale.space/developers/run-a-skale-chain/access-control";
-const SKALE_DEPLOYMENT_APPROVED = false;
+const SKALE_CONFIG_CONTROLLER = "0xD2002000000000000000000000000000000000d2";
+const skaleConfigControllerAbi = [{
+  type: "function",
+  name: "isAddressWhitelisted",
+  stateMutability: "view",
+  inputs: [{ name: "addr", type: "address" }],
+  outputs: [{ name: "", type: "bool" }],
+}] as const;
 const calypso = defineChain({
   id: 1564830818,
   name: "SKALE Calypso Hub",
@@ -96,6 +103,7 @@ export default function App() {
   const [deployedContract, setDeployedContract] = useState<string | null>(null);
   const [adminContract, setAdminContract] = useState("");
   const [sFuelBalance, setSFuelBalance] = useState<bigint | null>(null);
+  const [deploymentApproved, setDeploymentApproved] = useState<boolean | null>(null);
   const [isPending, setIsPending] = useState(false);
   const { isSignedIn } = useIsSignedIn();
   const { currentUser } = useCurrentUser();
@@ -141,6 +149,30 @@ export default function App() {
       .then(setSFuelBalance)
       .catch(() => setSFuelBalance(null));
   }, [evmAccount, transactionHash]);
+
+  useEffect(() => {
+    if (!evmAccount || !isCareOwner || !setupMode) {
+      setDeploymentApproved(null);
+      return;
+    }
+    let mounted = true;
+    const checkDeploymentApproval = () => publicClient.readContract({
+      address: getAddress(SKALE_CONFIG_CONTROLLER),
+      abi: skaleConfigControllerAbi,
+      functionName: "isAddressWhitelisted",
+      args: [getAddress(evmAccount)],
+    }).then((approved) => {
+      if (mounted) setDeploymentApproved(approved);
+    }).catch(() => {
+      if (mounted) setDeploymentApproved(false);
+    });
+    void checkDeploymentApproval();
+    const timer = window.setInterval(checkDeploymentApproval, 30_000);
+    return () => {
+      mounted = false;
+      window.clearInterval(timer);
+    };
+  }, [evmAccount, isCareOwner, setupMode]);
 
   async function sendCalypsoTransaction({ to, data, gas }: { to?: Address; data: Hex; gas: bigint }) {
     if (!evmAccount) throw new Error("Sign in with the wallet controlled by your Tails & Trails account.");
@@ -396,16 +428,17 @@ export default function App() {
             {evmAccount && <p className="wallet-address">Contract owner: {evmAccount}</p>}
             {!isCareOwner && isSignedIn && <p className="status-message">Sign out and use care@tailsandtrails.pt. Personal accounts cannot deploy this collection.</p>}
             {isCareOwner && sFuelBalance === 0n && <p className="status-message">Get free sFUEL for the owner wallet at <a href={SFUEL_STATION} target="_blank" rel="noreferrer">sFUEL Station</a>, then reload.</p>}
-            {!SKALE_DEPLOYMENT_APPROVED && <p className="status-message">Deployment is paused. Calypso mainnet requires SKALE to grant this care wallet the DEPLOYER_ROLE first. No collection contract has been created. <a href={SKALE_ACCESS_CONTROL_DOCS} target="_blank" rel="noreferrer">Official access-control details</a>.</p>}
-            <button className="claim-button" disabled={!SKALE_DEPLOYMENT_APPROVED || !evmAccount || !isCareOwner || sFuelBalance === 0n || isPending || Boolean(deployedContract)} onClick={deployArchiveContract}>
-              {isPending && operation === "deploy" ? "Deploying on SKALE…" : deployedContract ? "Contract deployed" : SKALE_DEPLOYMENT_APPROVED ? "Deploy archive contract — free" : "Waiting for SKALE deployer approval"}
+            {isCareOwner && deploymentApproved === null && <p className="status-message">Checking SKALE deployer approval…</p>}
+            {deploymentApproved === false && <p className="status-message">Deployment is paused. Calypso mainnet requires SKALE to grant this care wallet the DEPLOYER_ROLE first. No collection contract has been created. This page checks again automatically. <a href={SKALE_ACCESS_CONTROL_DOCS} target="_blank" rel="noreferrer">Official access-control details</a>.</p>}
+            <button className="claim-button" disabled={!deploymentApproved || !evmAccount || !isCareOwner || sFuelBalance === 0n || isPending || Boolean(deployedContract)} onClick={deployArchiveContract}>
+              {isPending && operation === "deploy" ? "Deploying on SKALE…" : deployedContract ? "Contract deployed" : deploymentApproved ? "Deploy archive contract — free" : "Waiting for SKALE deployer approval"}
             </button>
             {message && <p className="status-message" role="status">{message}</p>}
             {deployedContract && <a className="transaction" href={`${CALYPSO_EXPLORER}/address/${deployedContract}`}>Open deployed contract on SKALE Explorer</a>}
             <label>Deployed contract <input value={adminContract} onChange={(event) => setAdminContract(event.target.value)} /></label>
             <div>
               {[[1, 50], [51, 100], [101, 150], [151, 173]].map(([start, end]) => (
-                <button key={start} disabled={!SKALE_DEPLOYMENT_APPROVED || !evmAccount || !isCareOwner || sFuelBalance === 0n || !adminContract || isPending} onClick={() => mintOwnerBatch(start, end)}>
+                <button key={start} disabled={!deploymentApproved || !evmAccount || !isCareOwner || sFuelBalance === 0n || !adminContract || isPending} onClick={() => mintOwnerBatch(start, end)}>
                   Mint owner reserve {start}–{end}
                 </button>
               ))}
